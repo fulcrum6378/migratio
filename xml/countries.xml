@@ -1,0 +1,3514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cs [
+    <!ELEMENT cs (cn*)>
+    <!ELEMENT cn (it*)>
+    <!ATTLIST cn nm CDATA #REQUIRED>
+    <!ATTLIST cn ct CDATA #REQUIRED>
+    <!ELEMENT it EMPTY>
+    <!ATTLIST it nm CDATA #REQUIRED>
+    <!ATTLIST it vl CDATA #REQUIRED>
+    <!ATTLIST it ex CDATA #IMPLIED>
+    ]>
+
+<cs>
+  <cn nm="afghan" ct="1">
+    <it nm="airpol" vl="46.50"/>
+    <it nm="humdev" vl="0.496"/>
+    <it nm="gayhap" vl="-" ex="pak"/>
+    <it nm="lngepi" vl="445"/>
+    <it nm="langen" vl="-" ex="iraq"/><!--sudan-->
+    <it nm="avgwth" vl="14"/>
+    <it nm="sumwin" vl="25.5"/>
+    <it nm="crimer" vl="76.97"/>
+    <it nm="worisk" vl="9.21"/>
+    <it nm="gpeace" vl="3.300"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="6.4"/>
+    <it nm="sunshn" vl="~3175.1"/>
+    <it nm="frerel" vl="23.13"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="18.75"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="1100"/>
+    <it nm="democr" vl="2.85"/>
+    <it nm="traffc" vl="276.95"/>
+    <it nm="migacc" vl="2.51"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~37"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="11.45"/>
+    <it nm="ginnov" vl="-" ex="pak"/>
+    <it nm="gtacoi" vl="-" ex="pak"/>
+    <it nm="inflat" vl="5.90"/>
+    <it nm="unempl" vl="11.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="5.56"/>
+    <it nm="costpr" vl="15.59"/>
+  </cn>
+  <cn nm="alba" ct="2">
+    <it nm="airpol" vl="16.00"/>
+    <it nm="humdev" vl="0.791"/>
+    <it nm="gayhap" vl="34"/>
+    <it nm="lngepi" vl="511"/>
+    <it nm="langen" vl="-" ex="ukrain"/>
+    <it nm="avgwth" vl="14"/>
+    <it nm="sumwin" vl="17.5"/>
+    <it nm="crimer" vl="39.86"/>
+    <it nm="worisk" vl="8.18"/>
+    <it nm="gpeace" vl="1.821"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="5.6"/>
+    <it nm="sunshn" vl="2544"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="19.85"/>
+    <it nm="fresex" vl="65.00"/>
+    <it nm="fretht" vl="13"/>
+    <it nm="democr" vl="5.89"/>
+    <it nm="traffc" vl="123.83"/>
+    <it nm="migacc" vl="7.22"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="8"/>
+    <it nm="intusr" vl="71.85"/>
+    <it nm="ginnov" vl="30.34"/>
+    <it nm="gtacoi" vl="38.94"/>
+    <it nm="inflat" vl="1.50"/>
+    <it nm="unempl" vl="12.50"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="8.85"/>
+    <it nm="costpr" vl="25.42"/>
+  </cn>
+  <cn nm="alger" ct="0">
+    <it nm="airpol" vl="20.20"/>
+    <it nm="humdev" vl="0.759"/>
+    <it nm="gayhap" vl="32"/>
+    <it nm="lngepi" vl="442"/>
+    <it nm="langen" vl="7"/>
+    <it nm="avgwth" vl="17.4"/>
+    <it nm="sumwin" vl="17.6"/>
+    <it nm="crimer" vl="50.41"/>
+    <it nm="worisk" vl="7.66"/>
+    <it nm="gpeace" vl="2.219"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="3.3"/>
+    <it nm="sunshn" vl="6533"/>
+    <it nm="frerel" vl="22.75"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="20.24"/>
+    <it nm="fresex" vl="77.50"/>
+    <it nm="fretht" vl="454"/>
+    <it nm="democr" vl="4.01"/>
+    <it nm="traffc" vl="206.08"/>
+    <it nm="migacc" vl="-" ex="moroc"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~63"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="47.69"/>
+    <it nm="ginnov" vl="23.98"/>
+    <it nm="gtacoi" vl="30.75"/>
+    <it nm="inflat" vl="1.20"/>
+    <it nm="unempl" vl="11.40"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="10.49"/>
+    <it nm="costpr" vl="17.18"/>
+  </cn>
+  <!--andor-->
+  <!--angol-->
+  <!--antigbar-->
+  <cn nm="argen" ct="4">
+    <it nm="airpol" vl="14.20"/>
+    <it nm="humdev" vl="0.830"/>
+    <it nm="gayhap" vl="67"/>
+    <it nm="lngepi" vl="566"/>
+    <it nm="langen" vl="6.52"/>
+    <it nm="avgwth" vl="17.4"/>
+    <it nm="sumwin" vl="13"/>
+    <it nm="crimer" vl="62.26"/>
+    <it nm="worisk" vl="3.53"/>
+    <it nm="gpeace" vl="1.989"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="9.1"/>
+    <it nm="sunshn" vl="2220.3"/>
+    <it nm="frerel" vl="95.67"/>
+    <it nm="frebio" vl="26.88"/>
+    <it nm="fredrg" vl="71.55"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="103"/>
+    <it nm="democr" vl="7.02"/>
+    <it nm="traffc" vl="172.79"/>
+    <it nm="migacc" vl="6.51"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~56"/>
+    <it nm="blonde" vl="-" ex="spain+ital"/>
+    <it nm="intusr" vl="75.81"/>
+    <it nm="ginnov" vl="31.95"/>
+    <it nm="gtacoi" vl="45.33"/>
+    <it nm="inflat" vl="36.60"/>
+    <it nm="unempl" vl="13.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="24.86"/>
+    <it nm="costpr" vl="23.83"/>
+  </cn>
+  <cn nm="armen" ct="1">
+    <it nm="airpol" vl="24.90"/>
+    <it nm="humdev" vl="0.760"/>
+    <it nm="gayhap" vl="30"/>
+    <it nm="lngepi" vl="494"/>
+    <it nm="langen" vl="-" ex="turk"/>
+    <it nm="avgwth" vl="7.2"/>
+    <it nm="sumwin" vl="25.8"/>
+    <it nm="crimer" vl="22.69"/>
+    <it nm="worisk" vl="5.72"/>
+    <it nm="gpeace" vl="2.294"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="5.7"/>
+    <it nm="sunshn" vl="2474"/>
+    <it nm="frerel" vl="92.79"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="21.36"/>
+    <it nm="fresex" vl="40.00"/>
+    <it nm="fretht" vl="54"/>
+    <it nm="democr" vl="5.54"/>
+    <it nm="traffc" vl="116.94"/>
+    <it nm="migacc" vl="5.78"/>
+    <it nm="racism" vl="93"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="3"/>
+    <it nm="intusr" vl="69.72"/>
+    <it nm="ginnov" vl="33.98"/>
+    <it nm="gtacoi" vl="43.52"/>
+    <it nm="inflat" vl="1.40"/>
+    <it nm="unempl" vl="17.50"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="6.25"/>
+    <it nm="costpr" vl="21.50"/>
+  </cn>
+  <cn nm="austra" ct="3">
+    <it nm="airpol" vl="7.60"/>
+    <it nm="humdev" vl="0.938"/>
+    <it nm="gayhap" vl="64"/>
+    <it nm="lngepi" vl="-" ex="uk"/>
+    <it nm="langen" vl="97"/>
+    <it nm="avgwth" vl="17.3"/>
+    <it nm="sumwin" vl="11.7"/>
+    <it nm="crimer" vl="41.67"/>
+    <it nm="worisk" vl="4.49"/>
+    <it nm="gpeace" vl="1.419"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="11.7"/>
+    <it nm="sunshn" vl="2635.5"/><!--Sydney enough-->
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="43.75"/>
+    <it nm="fredrg" vl="32.50"/>
+    <it nm="fresex" vl="68.00"/>
+    <it nm="fretht" vl="47"/>
+    <it nm="democr" vl="9.09"/>
+    <it nm="traffc" vl="148.25"/>
+    <it nm="migacc" vl="7.98"/>
+    <it nm="racism" vl="-" ex="uk"/>
+    <it nm="bdhair" vl="~52"/>
+    <it nm="blonde" vl="-" ex="uk+uk+uk+uk+uk+uk+uk+uk+uk+china"/>
+    <it nm="intusr" vl="86.54"/>
+    <it nm="ginnov" vl="50.34"/>
+    <it nm="gtacoi" vl="72.53"/>
+    <it nm="inflat" vl="0.70"/>
+    <it nm="unempl" vl="6.90"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="45.34"/>
+    <it nm="costpr" vl="62.28"/>
+  </cn>
+  <cn nm="austri" ct="2">
+    <it nm="airpol" vl="10.90"/>
+    <it nm="humdev" vl="0.914"/>
+    <it nm="gayhap" vl="64"/>
+    <it nm="lngepi" vl="623"/>
+    <it nm="langen" vl="73"/>
+    <it nm="avgwth" vl="7"/>
+    <it nm="sumwin" vl="19.2"/>
+    <it nm="crimer" vl="24.43"/>
+    <it nm="worisk" vl="2.87"/>
+    <it nm="gpeace" vl="1.291"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="11.4"/>
+    <it nm="sunshn" vl="1884"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="32.50"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="20"/>
+    <it nm="democr" vl="8.29"/>
+    <it nm="traffc" vl="80.52"/>
+    <it nm="migacc" vl="6.06"/>
+    <it nm="racism" vl="46"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="54"/>
+    <it nm="intusr" vl="87.94"/>
+    <it nm="ginnov" vl="50.94"/>
+    <it nm="gtacoi" vl="68.87"/>
+    <it nm="inflat" vl="1.50"/>
+    <it nm="unempl" vl="8.40"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~25.97"/>
+    <it nm="costpr" vl="53.00"/>
+  </cn>
+  <cn nm="azer" ct="1">
+    <it nm="airpol" vl="-" ex="armen"/>
+    <it nm="humdev" vl="0.754"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="432"/>
+    <it nm="langen" vl="-" ex="turk"/>
+    <it nm="avgwth" vl="13"/>
+    <it nm="sumwin" vl="24.1"/>
+    <it nm="crimer" vl="32.12"/>
+    <it nm="worisk" vl="5.73"/>
+    <it nm="gpeace" vl="2.425"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="2.6"/>
+    <it nm="sunshn" vl="2207.4"/>
+    <it nm="frerel" vl="53.10"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="15.23"/>
+    <it nm="fresex" vl="42.50"/>
+    <it nm="fretht" vl="82"/>
+    <it nm="democr" vl="2.75"/>
+    <it nm="traffc" vl="162.23"/>
+    <it nm="migacc" vl="4.34"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~54"/>
+    <it nm="blonde" vl="~1"/>
+    <it nm="intusr" vl="79.00"/>
+    <it nm="ginnov" vl="30.21"/>
+    <it nm="gtacoi" vl="48.57"/>
+    <it nm="inflat" vl="2.90"/>
+    <it nm="unempl" vl="4.80"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="7.15"/>
+    <it nm="costpr" vl="20.45"/>
+  </cn>
+  <cn nm="baham" ct="4">
+    <it nm="airpol" vl="~3.30"/><!--Puerto Rico's-->
+    <it nm="humdev" vl="0.805"/>
+    <it nm="gayhap" vl="-" ex="cuba"/>
+    <it nm="lngepi" vl="-" ex="cuba"/>
+    <it nm="langen" vl="87.13"/>
+    <it nm="avgwth" vl="24.7"/>
+    <it nm="sumwin" vl="6.6"/>
+    <it nm="crimer" vl="62.74"/>
+    <it nm="worisk" vl="4.31"/>
+    <it nm="gpeace" vl="-" ex="argen"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="1.6"/>
+    <it nm="sunshn" vl="~2963.8"/><!--Puerto Rico's-->
+    <it nm="frerel" vl="98.00"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="15.87"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="20"/>
+    <it nm="democr" vl="-" ex="dominicrep"/>
+    <it nm="traffc" vl="~160.03"/><!--Puerto Rico's-->
+    <it nm="migacc" vl="-" ex="usa"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="-" ex="ind+ind+ind+ind+ind+ind+ind+ind+ind+uk"/>
+    <it nm="intusr" vl="85.00"/>
+    <it nm="ginnov" vl="-" ex="dominicrep"/>
+    <it nm="gtacoi" vl="-" ex="dominicrep"/>
+    <it nm="inflat" vl="1.43"/>
+    <it nm="unempl" vl="9.50"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="14.90"/>
+    <it nm="costpr" vl="61.33"/>
+  </cn>
+  <cn nm="bahr" ct="1">
+    <it nm="airpol" vl="39.70"/>
+    <it nm="humdev" vl="0.838"/>
+    <it nm="gayhap" vl="-" ex="qtr"/>
+    <it nm="lngepi" vl="453"/>
+    <it nm="langen" vl="-" ex="pak"/>
+    <it nm="avgwth" vl="25.5"/>
+    <it nm="sumwin" vl="17.5"/>
+    <it nm="crimer" vl="26.86"/>
+    <it nm="worisk" vl="2.89"/>
+    <it nm="gpeace" vl="2.357"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="5.7"/>
+    <it nm="sunshn" vl="-" ex="uae"/>
+    <it nm="frerel" vl="15.00"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="15.24"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="387"/>
+    <it nm="democr" vl="2.55"/>
+    <it nm="traffc" vl="135.23"/>
+    <it nm="migacc" vl="-" ex="uae"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="95.88"/>
+    <it nm="ginnov" vl="31.10"/>
+    <it nm="gtacoi" vl="50.35"/>
+    <it nm="inflat" vl="-3.60"/>
+    <it nm="unempl" vl="3.90"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~18.02"/>
+    <it nm="costpr" vl="44.24"/>
+  </cn>
+  <!--bangla-->
+  <!--barba-->
+  <cn nm="belar" ct="2">
+    <it nm="airpol" vl="-" ex="ukrain"/>
+    <it nm="humdev" vl="0.817"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="513"/>
+    <it nm="langen" vl="-" ex="rus"/>
+    <it nm="avgwth" vl="5.9"/>
+    <it nm="sumwin" vl="24.9"/>
+    <it nm="crimer" vl="25.02"/>
+    <it nm="worisk" vl="2.59"/>
+    <it nm="gpeace" vl="2.115"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="21.4"/>
+    <it nm="sunshn" vl="1676.5"/>
+    <it nm="frerel" vl="73.15"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="17.36"/>
+    <it nm="fresex" vl="22.50"/>
+    <it nm="fretht" vl="169"/>
+    <it nm="democr" vl="2.48"/>
+    <it nm="traffc" vl="109.39"/>
+    <it nm="migacc" vl="3.38"/>
+    <it nm="racism" vl="84"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="55"/>
+    <it nm="intusr" vl="74.44"/>
+    <it nm="ginnov" vl="32.07"/>
+    <it nm="gtacoi" vl="-" ex="ukrain"/>
+    <it nm="inflat" vl="6.10"/>
+    <it nm="unempl" vl="0.20"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="8.09"/>
+    <it nm="costpr" vl="20.42"/>
+  </cn>
+  <cn nm="belg" ct="2">
+    <it nm="airpol" vl="8.90"/>
+    <it nm="humdev" vl="0.919"/>
+    <it nm="gayhap" vl="67"/>
+    <it nm="lngepi" vl="612"/>
+    <it nm="langen" vl="60"/>
+    <it nm="avgwth" vl="9"/>
+    <it nm="sumwin" vl="14.9"/>
+    <it nm="crimer" vl="45.29"/>
+    <it nm="worisk" vl="2.79"/>
+    <it nm="gpeace" vl="1.533"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="15.7"/>
+    <it nm="sunshn" vl="1546"/>
+    <it nm="frerel" vl="98.00"/>
+    <it nm="frebio" vl="95.00"/>
+    <it nm="fredrg" vl="73.58"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="0"/>
+    <it nm="democr" vl="7.64"/>
+    <it nm="traffc" vl="146.77"/>
+    <it nm="migacc" vl="6.16"/>
+    <it nm="racism" vl="23"/>
+    <it nm="bdhair" vl="~64"/>
+    <it nm="blonde" vl="45"/>
+    <it nm="intusr" vl="87.68"/>
+    <it nm="ginnov" vl="50.18"/>
+    <it nm="gtacoi" vl="68.87"/>
+    <it nm="inflat" vl="0.74"/>
+    <it nm="unempl" vl="5.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="38.02"/>
+    <it nm="costpr" vl="53.83"/>
+  </cn>
+  <!--beliz-->
+  <!--benin-->
+  <!--bhut-->
+  <!--boliv-->
+  <cn nm="bosni" ct="2">
+    <it nm="airpol" vl="40.60"/>
+    <it nm="humdev" vl="0.769"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="-" ex="serb"/>
+    <it nm="langen" vl="-" ex="croat"/>
+    <it nm="avgwth" vl="9.7"/>
+    <it nm="sumwin" vl="19.4"/>
+    <it nm="crimer" vl="43.57"/>
+    <it nm="worisk" vl="4.71"/>
+    <it nm="gpeace" vl="2.019"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="6.4"/>
+    <it nm="sunshn" vl="1769"/>
+    <it nm="frerel" vl="92.38"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="21.41"/>
+    <it nm="fresex" vl="82.50"/>
+    <it nm="fretht" vl="160"/>
+    <it nm="democr" vl="4.86"/>
+    <it nm="traffc" vl="89.98"/>
+    <it nm="migacc" vl="2.71"/>
+    <it nm="racism" vl="58"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="19"/>
+    <it nm="intusr" vl="94.32"/>
+    <it nm="ginnov" vl="31.41"/>
+    <it nm="gtacoi" vl="32.77"/>
+    <it nm="inflat" vl="-1.50"/>
+    <it nm="unempl" vl="34.67"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="10.70"/>
+    <it nm="costpr" vl="23.54"/>
+  </cn>
+  <!--botsw-->
+  <cn nm="braz" ct="4">
+    <it nm="airpol" vl="14.20"/>
+    <it nm="humdev" vl="0.761"/>
+    <it nm="gayhap" vl="51"/>
+    <it nm="lngepi" vl="490"/>
+    <it nm="langen" vl="5"/>
+    <it nm="avgwth" vl="24.5"/>
+    <it nm="sumwin" vl="3.2"/>
+    <it nm="crimer" vl="68.31"/>
+    <it nm="worisk" vl="4.79"/>
+    <it nm="gpeace" vl="2.271"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="6.1"/>
+    <it nm="sunshn" vl="2189.6"/>
+    <it nm="frerel" vl="95.67"/>
+    <it nm="frebio" vl="30.63"/>
+    <it nm="fredrg" vl="56.03"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="22"/>
+    <it nm="democr" vl="6.86"/>
+    <it nm="traffc" vl="177.06"/>
+    <it nm="migacc" vl="6.38"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~32"/>
+    <it nm="blonde" vl="-" ex="port+port+port+niger+niger"/>
+    <it nm="intusr" vl="71.86"/>
+    <it nm="ginnov" vl="33.82"/>
+    <it nm="gtacoi" vl="38.14"/>
+    <it nm="inflat" vl="3.14"/>
+    <it nm="unempl" vl="14.40"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="13.82"/>
+    <it nm="costpr" vl="20.50"/>
+  </cn>
+  <!--brun-->
+  <cn nm="bulgar" ct="2">
+    <it nm="airpol" vl="27.50"/>
+    <it nm="humdev" vl="0.816"/>
+    <it nm="gayhap" vl="41"/>
+    <it nm="lngepi" vl="579"/>
+    <it nm="langen" vl="25"/>
+    <it nm="avgwth" vl="9.6"/>
+    <it nm="sumwin" vl="20.2"/>
+    <it nm="crimer" vl="38.55"/>
+    <it nm="worisk" vl="4.08"/>
+    <it nm="gpeace" vl="1.607"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="7.9"/>
+    <it nm="sunshn" vl="2177"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="20.63"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="28"/>
+    <it nm="democr" vl="7.03"/>
+    <it nm="traffc" vl="103.15"/>
+    <it nm="migacc" vl="2.42"/>
+    <it nm="racism" vl="68"/>
+    <it nm="bdhair" vl="~69"/>
+    <it nm="blonde" vl="10"/>
+    <it nm="intusr" vl="63.41"/>
+    <it nm="ginnov" vl="40.35"/>
+    <it nm="gtacoi" vl="45.76"/>
+    <it nm="inflat" vl="0.90"/>
+    <it nm="unempl" vl="7.20"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="15.09"/>
+    <it nm="costpr" vl="26.09"/>
+  </cn>
+  <!--burkfa-->
+  <!--burund-->
+  <!--ivorcoast-->
+  <!--cabover-->
+  <!--cambod-->
+  <!--camer-->
+  <cn nm="can" ct="4">
+    <it nm="airpol" vl="7.30"/>
+    <it nm="humdev" vl="0.922"/>
+    <it nm="gayhap" vl="72"/>
+    <it nm="lngepi" vl="-" ex="uk"/>
+    <it nm="langen" vl="80.10"/>
+    <it nm="avgwth" vl="3.6"/>
+    <it nm="sumwin" vl="27.9"/><!--!?!-->
+    <it nm="crimer" vl="40.64"/>
+    <it nm="worisk" vl="3.03"/>
+    <it nm="gpeace" vl="1.327"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.4"/>
+    <it nm="sunshn" vl="2028.04"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="75.00"/>
+    <it nm="fredrg" vl="88.75"/>
+    <it nm="fresex" vl="81.00"/>
+    <it nm="fretht" vl="73"/>
+    <it nm="democr" vl="9.22"/>
+    <it nm="traffc" vl="140.45"/>
+    <it nm="migacc" vl="8.14"/>
+    <it nm="racism" vl="-" ex="uk"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="-" ex="uk+franc+mexic"/>
+    <it nm="intusr" vl="92.70"/>
+    <it nm="ginnov" vl="53.88"/>
+    <it nm="gtacoi" vl="71.26"/>
+    <it nm="inflat" vl="0.50"/>
+    <it nm="unempl" vl="9.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="38.02"/>
+    <it nm="costpr" vl="52.12"/>
+  </cn>
+  <!--car-->
+  <cn nm="chad" ct="0">
+    <it nm="airpol" vl="-" ex="alger"/>
+    <it nm="humdev" vl="0.401"/>
+    <it nm="gayhap" vl="-" ex="nigeria"/>
+    <it nm="lngepi" vl="-" ex="niger"/>
+    <it nm="langen" vl="-" ex="niger"/>
+    <it nm="avgwth" vl="27.3"/>
+    <it nm="sumwin" vl="7.6"/>
+    <it nm="crimer" vl="-" ex="nigeria"/>
+    <it nm="worisk" vl="11.90"/>
+    <it nm="gpeace" vl="2.522"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="15.5"/>
+    <it nm="sunshn" vl="3353.2"/>
+    <it nm="frerel" vl="-" ex="nigeria"/>
+    <it nm="frebio" vl="-" ex="nigeria"/>
+    <it nm="fredrg" vl="-" ex="nigeria"/>
+    <it nm="fresex" vl="-" ex="nigeria"/>
+    <it nm="fretht" vl="85"/>
+    <it nm="democr" vl="1.61"/>
+    <it nm="traffc" vl="110.35"/>
+    <it nm="migacc" vl="7.26"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~40"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="6.50"/>
+    <it nm="ginnov" vl="-" ex="niger"/>
+    <it nm="gtacoi" vl="-" ex="nigeria"/>
+    <it nm="inflat" vl="3.00"/>
+    <it nm="unempl" vl="2.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~3.61"/>
+    <it nm="costpr" vl="-" ex="nigeria"/>
+  </cn>
+  <cn nm="chil" ct="4">
+    <it nm="airpol" vl="19.30"/>
+    <it nm="humdev" vl="0.847"/>
+    <it nm="gayhap" vl="53"/>
+    <it nm="lngepi" vl="523"/>
+    <it nm="langen" vl="9.53"/>
+    <it nm="avgwth" vl="12.1"/>
+    <it nm="sumwin" vl="8.2"/>
+    <it nm="crimer" vl="49.60"/>
+    <it nm="worisk" vl="12.45"/>
+    <it nm="gpeace" vl="1.634"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="9.7"/>
+    <it nm="sunshn" vl="2841.78"/>
+    <it nm="frerel" vl="94.25"/>
+    <it nm="frebio" vl="26.88"/>
+    <it nm="fredrg" vl="71.52"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="35"/>
+    <it nm="democr" vl="8.08"/>
+    <it nm="traffc" vl="128.07"/>
+    <it nm="migacc" vl="5.17"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~53"/>
+    <it nm="blonde" vl="-" ex="spain"/>
+    <it nm="intusr" vl="82.33"/>
+    <it nm="ginnov" vl="36.64"/>
+    <it nm="gtacoi" vl="53.96"/>
+    <it nm="inflat" vl="3.10"/>
+    <it nm="unempl" vl="12.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="15.55"/>
+    <it nm="costpr" vl="32.76"/>
+  </cn>
+  <cn nm="china" ct="1">
+    <it nm="airpol" vl="34.70"/>
+    <it nm="humdev" vl="0.758"/>
+    <it nm="gayhap" vl="41"/>
+    <it nm="lngepi" vl="520"/>
+    <it nm="langen" vl="0.83"/>
+    <it nm="avgwth" vl="13"/>
+    <it nm="sumwin" vl="25.4"/>
+    <it nm="crimer" vl="31.18"/>
+    <it nm="worisk" vl="5.84"/>
+    <it nm="gpeace" vl="2.217"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="8.0"/>
+    <it nm="sunshn" vl="2034.56"/>
+    <it nm="frerel" vl="39.00"/>
+    <it nm="frebio" vl="72.50"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="25.00"/>
+    <it nm="fretht" vl="351"/>
+    <it nm="democr" vl="2.26"/>
+    <it nm="traffc" vl="160.05"/>
+    <it nm="migacc" vl="5.11"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~8"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="63.33"/>
+    <it nm="ginnov" vl="54.82"/>
+    <it nm="gtacoi" vl="49.64"/>
+    <it nm="inflat" vl="1.70"/>
+    <it nm="unempl" vl="5.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="5.89"/>
+    <it nm="costpr" vl="30.06"/>
+  </cn>
+  <cn nm="colom" ct="4">
+    <it nm="airpol" vl="15.60"/>
+    <it nm="humdev" vl="0.761"/>
+    <it nm="gayhap" vl="51"/>
+    <it nm="lngepi" vl="448"/>
+    <it nm="langen" vl="4.22"/>
+    <it nm="avgwth" vl="23.4"/>
+    <it nm="sumwin" vl="0.9"/>
+    <it nm="crimer" vl="54.94"/>
+    <it nm="worisk" vl="6.59"/>
+    <it nm="gpeace" vl="2.661"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="7.0"/>
+    <it nm="sunshn" vl="1930.78"/>
+    <it nm="frerel" vl="80.00"/>
+    <it nm="frebio" vl="52.50"/>
+    <it nm="fredrg" vl="80.25"/>
+    <it nm="fresex" vl="93.00"/>
+    <it nm="fretht" vl="33"/>
+    <it nm="democr" vl="7.13"/>
+    <it nm="traffc" vl="196.41"/>
+    <it nm="migacc" vl="6.13"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~35"/>
+    <it nm="blonde" vl="-" ex="spain+spain+niger+niger+niger"/>
+    <it nm="intusr" vl="62.26"/>
+    <it nm="ginnov" vl="33.00"/>
+    <it nm="gtacoi" vl="39.85"/>
+    <it nm="inflat" vl="1.97"/>
+    <it nm="unempl" vl="15.80"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="18.72"/>
+    <it nm="costpr" vl="20.94"/>
+  </cn>
+  <!--comor-->
+  <!--congo-->
+  <!--costar-->
+  <cn nm="croat" ct="2">
+    <it nm="airpol" vl="21.20"/>
+    <it nm="humdev" vl="0.837"/>
+    <it nm="gayhap" vl="42"/>
+    <it nm="lngepi" vl="599"/>
+    <it nm="langen" vl="49"/>
+    <it nm="avgwth" vl="12.5"/>
+    <it nm="sumwin" vl="18.4"/>
+    <it nm="crimer" vl="24.67"/>
+    <it nm="worisk" vl="3.96"/>
+    <it nm="gpeace" vl="1.645"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="11.5"/>
+    <it nm="sunshn" vl="2272"/>
+    <it nm="frerel" vl="92.38"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="73.82"/>
+    <it nm="fresex" vl="65.00"/>
+    <it nm="fretht" vl="89"/>
+    <it nm="democr" vl="6.57"/>
+    <it nm="traffc" vl="100.73"/>
+    <it nm="migacc" vl="2.39"/>
+    <it nm="racism" vl="57"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="25"/>
+    <it nm="intusr" vl="67.10"/>
+    <it nm="ginnov" vl="37.82"/>
+    <it nm="gtacoi" vl="43.53"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="8.80"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="16.00"/>
+    <it nm="costpr" vl="36.57"/>
+  </cn>
+  <cn nm="cuba" ct="4">
+    <it nm="airpol" vl="-" ex="baham"/>
+    <it nm="humdev" vl="0.778"/>
+    <it nm="gayhap" vl="59"/>
+    <it nm="lngepi" vl="512"/>
+    <it nm="langen" vl="-" ex="baham"/>
+    <it nm="avgwth" vl="25.1"/>
+    <it nm="sumwin" vl="4.8"/>
+    <it nm="crimer" vl="29.02"/>
+    <it nm="worisk" vl="5.70"/>
+    <it nm="gpeace" vl="2.073"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.1"/>
+    <it nm="sunshn" vl="~2963.8"/><!--Puerto Rico's-->
+    <it nm="frerel" vl="49.78"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="14.85"/>
+    <it nm="fresex" vl="57.50"/>
+    <it nm="fretht" vl="9"/>
+    <it nm="democr" vl="2.84"/>
+    <it nm="traffc" vl="-" ex="venez"/>
+    <it nm="migacc" vl="6.82"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~45"/>
+    <it nm="blonde" vl="-" ex="uk+uk+ind+ind+ind"/>
+    <it nm="intusr" vl="49.10"/>
+    <it nm="ginnov" vl="-" ex="dominicrep"/>
+    <it nm="gtacoi" vl="-" ex="venez"/>
+    <it nm="inflat" vl="5.70"/>
+    <it nm="unempl" vl="1.30"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="0.61"/>
+    <it nm="costpr" vl="36.12"/>
+  </cn>
+  <cn nm="cypr" ct="2">
+    <it nm="airpol" vl="15.80"/>
+    <it nm="humdev" vl="0.873"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="-" ex="greec"/>
+    <it nm="langen" vl="73"/>
+    <it nm="avgwth" vl="18.7"/>
+    <it nm="sumwin" vl="15.3"/>
+    <it nm="crimer" vl="31.57"/>
+    <it nm="worisk" vl="2.87"/>
+    <it nm="gpeace" vl="1.805"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="4.5"/>
+    <it nm="sunshn" vl="3314.1"/>
+    <it nm="frerel" vl="94.25"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="38.71"/>
+    <it nm="fresex" vl="93.75"/>
+    <it nm="fretht" vl="82"/>
+    <it nm="democr" vl="7.59"/>
+    <it nm="traffc" vl="108.24"/>
+    <it nm="migacc" vl="5.41"/>
+    <it nm="racism" vl="-" ex="greec"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="-" ex="turk+greec"/>
+    <it nm="intusr" vl="80.74"/>
+    <it nm="ginnov" vl="48.34"/>
+    <it nm="gtacoi" vl="57.47"/>
+    <it nm="inflat" vl="-0.90"/>
+    <it nm="unempl" vl="8.00"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~24.70"/>
+    <it nm="costpr" vl="44.29"/>
+  </cn>
+  <cn nm="czech" ct="2">
+    <it nm="airpol" vl="12.30"/>
+    <it nm="humdev" vl="0.891"/>
+    <it nm="gayhap" vl="66"/>
+    <it nm="lngepi" vl="580"/>
+    <it nm="langen" vl="27"/>
+    <it nm="avgwth" vl="6.8"/>
+    <it nm="sumwin" vl="18.6"/>
+    <it nm="crimer" vl="25.40"/>
+    <it nm="worisk" vl="2.99"/>
+    <it nm="gpeace" vl="1.383"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.5"/>
+    <it nm="sunshn" vl="1668"/>
+    <it nm="frerel" vl="99.00"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="97.05"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="-" ex="slovak"/>
+    <it nm="democr" vl="7.69"/>
+    <it nm="traffc" vl="92.70"/>
+    <it nm="migacc" vl="2.26"/>
+    <it nm="racism" vl="88"/>
+    <it nm="bdhair" vl="~62"/>
+    <it nm="blonde" vl="56"/>
+    <it nm="intusr" vl="78.72"/>
+    <it nm="ginnov" vl="49.43"/>
+    <it nm="gtacoi" vl="60.91"/>
+    <it nm="inflat" vl="3.20"/>
+    <it nm="unempl" vl="3.80"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="18.50"/>
+    <it nm="costpr" vl="35.15"/>
+  </cn>
+  <!--drc-->
+  <cn nm="denm" ct="2">
+    <it nm="airpol" vl="9.40"/>
+    <it nm="humdev" vl="0.930"/>
+    <it nm="gayhap" vl="76"/>
+    <it nm="lngepi" vl="632"/>
+    <it nm="langen" vl="86"/>
+    <it nm="avgwth" vl="7.5"/>
+    <it nm="sumwin" vl="15.8"/>
+    <it nm="crimer" vl="26.09"/>
+    <it nm="worisk" vl="2.65"/>
+    <it nm="gpeace" vl="1.316"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="9.2"/>
+    <it nm="sunshn" vl="1568"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="88.75"/>
+    <it nm="fredrg" vl="39.06"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="74"/>
+    <it nm="democr" vl="9.22"/>
+    <it nm="traffc" vl="87.98"/>
+    <it nm="migacc" vl="7.09"/>
+    <it nm="racism" vl="19"/>
+    <it nm="bdhair" vl="~62"/>
+    <it nm="blonde" vl="68"/>
+    <it nm="intusr" vl="97.10"/>
+    <it nm="ginnov" vl="58.44"/>
+    <it nm="gtacoi" vl="75.18"/>
+    <it nm="inflat" vl="0.60"/>
+    <it nm="unempl" vl="4.80"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~43.66"/>
+    <it nm="costpr" vl="65.16"/>
+  </cn>
+  <cn nm="djib" ct="0">
+    <it nm="airpol" vl="-" ex="ethiop"/>
+    <it nm="humdev" vl="0.495"/>
+    <it nm="gayhap" vl="46"/>
+    <it nm="lngepi" vl="-" ex="ethiop"/>
+    <it nm="langen" vl="-" ex="ymn"/>
+    <it nm="avgwth" vl="28.5"/>
+    <it nm="sumwin" vl="9.7"/>
+    <it nm="crimer" vl="67.30"/>
+    <it nm="worisk" vl="16.46"/>
+    <it nm="gpeace" vl="2.207"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="8.5"/>
+    <it nm="sunshn" vl="3279.0"/>
+    <it nm="frerel" vl="26.50"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="14.01"/>
+    <it nm="fresex" vl="52.50"/>
+    <it nm="fretht" vl="140"/>
+    <it nm="democr" vl="2.77"/>
+    <it nm="traffc" vl="164.59"/>
+    <it nm="migacc" vl="-" ex="somali"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~48"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="55.68"/>
+    <it nm="ginnov" vl="-" ex="ymn"/>
+    <it nm="gtacoi" vl="-" ex="ethiop"/>
+    <it nm="inflat" vl="1.50"/>
+    <it nm="unempl" vl="10.30"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~8.89"/>
+    <it nm="costpr" vl="-" ex="somali"/>
+  </cn>
+  <!--dominic-->
+  <cn nm="dominicrep" ct="4">
+    <it nm="airpol" vl="~10.21"/><!--Puerto Rico's-->
+    <it nm="humdev" vl="0.745"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="499"/>
+    <it nm="langen" vl="-" ex="chil"/>
+    <it nm="avgwth" vl="24.8"/>
+    <it nm="sumwin" vl="3.7"/>
+    <it nm="crimer" vl="61.04"/>
+    <it nm="worisk" vl="11.72"/>
+    <it nm="gpeace" vl="2.041"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.5"/>
+    <it nm="sunshn" vl="~2963.8"/><!--Puerto Rico's-->
+    <it nm="frerel" vl="95.13"/>
+    <it nm="frebio" vl="0.00"/>
+    <it nm="fredrg" vl="18.95"/>
+    <it nm="fresex" vl="47.50"/>
+    <it nm="fretht" vl="47"/>
+    <it nm="democr" vl="6.54"/>
+    <it nm="traffc" vl="~160.03"/><!--Puerto Rico's-->
+    <it nm="migacc" vl="6.03"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~30"/>
+    <it nm="blonde" vl="-" ex="uk+ind+ind"/>
+    <it nm="intusr" vl="64.99"/>
+    <it nm="ginnov" vl="28.56"/>
+    <it nm="gtacoi" vl="37.29"/>
+    <it nm="inflat" vl="5.03"/>
+    <it nm="unempl" vl="5.70"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="2.77"/>
+    <it nm="costpr" vl="26.38"/>
+  </cn>
+  <!--ecuad-->
+  <cn nm="egypt" ct="0">
+    <it nm="airpol" vl="~18.00"/>
+    <it nm="humdev" vl="0.700"/>
+    <it nm="gayhap" vl="29"/>
+    <it nm="lngepi" vl="437"/>
+    <it nm="langen" vl="35"/>
+    <it nm="avgwth" vl="21.7"/>
+    <it nm="sumwin" vl="14.9"/>
+    <it nm="crimer" vl="46.65"/>
+    <it nm="worisk" vl="1.84"/>
+    <it nm="gpeace" vl="2.521"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="4.4"/>
+    <it nm="sunshn" vl="3710.68"/>
+    <it nm="frerel" vl="21.94"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="17.01"/>
+    <it nm="fresex" vl="52.50"/>
+    <it nm="fretht" vl="774"/>
+    <it nm="democr" vl="3.06"/>
+    <it nm="traffc" vl="237.95"/>
+    <it nm="migacc" vl="3.5"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~69"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="44.95"/>
+    <it nm="ginnov" vl="27.47"/>
+    <it nm="gtacoi" vl="34.79"/>
+    <it nm="inflat" vl="3.70"/>
+    <it nm="unempl" vl="9.60"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~5.71"/>
+    <it nm="costpr" vl="18.57"/>
+  </cn>
+  <!--elsalv-->
+  <!--eqguin-->
+  <!--erit-->
+  <cn nm="est" ct="2">
+    <it nm="airpol" vl="5.90"/>
+    <it nm="humdev" vl="0.882"/>
+    <it nm="gayhap" vl="50"/>
+    <it nm="lngepi" vl="566"/>
+    <it nm="langen" vl="50"/>
+    <it nm="avgwth" vl="5.5"/>
+    <it nm="sumwin" vl="21.5"/>
+    <it nm="crimer" vl="23.56"/>
+    <it nm="worisk" vl="2.04"/>
+    <it nm="gpeace" vl="1.727"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="14.4"/>
+    <it nm="sunshn" vl="1826"/>
+    <it nm="frerel" vl="97.41"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="37.20"/>
+    <it nm="fresex" vl="100.0"/>
+    <it nm="fretht" vl="9"/>
+    <it nm="democr" vl="7.90"/>
+    <it nm="traffc" vl="85.67"/>
+    <it nm="migacc" vl="2.37"/>
+    <it nm="racism" vl="75"/>
+    <it nm="bdhair" vl="~58"/>
+    <it nm="blonde" vl="70"/>
+    <it nm="intusr" vl="88.10"/>
+    <it nm="ginnov" vl="49.97"/>
+    <it nm="gtacoi" vl="61.97"/>
+    <it nm="inflat" vl="-1.10"/>
+    <it nm="unempl" vl="7.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="19.23"/>
+    <it nm="costpr" vl="37.25"/>
+  </cn>
+  <!--eswat-->
+  <cn nm="ethiop" ct="0">
+    <it nm="airpol" vl="14.70"/>
+    <it nm="humdev" vl="0.470"/>
+    <it nm="gayhap" vl="22"/>
+    <it nm="lngepi" vl="477"/>
+    <it nm="langen" vl="-" ex="mexic"/>
+    <it nm="avgwth" vl="19.3"/>
+    <it nm="sumwin" vl="2.9"/>
+    <it nm="crimer" vl="49.23"/>
+    <it nm="worisk" vl="7.79"/>
+    <it nm="gpeace" vl="2.434"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="11.4"/>
+    <it nm="sunshn" vl="2784.85"/>
+    <it nm="frerel" vl="78.48"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="20.60"/>
+    <it nm="fresex" vl="67.50"/>
+    <it nm="fretht" vl="262"/>
+    <it nm="democr" vl="3.44"/>
+    <it nm="traffc" vl="229.48"/>
+    <it nm="migacc" vl="5.19"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~35"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="18.62"/>
+    <it nm="ginnov" vl="24.16"/>
+    <it nm="gtacoi" vl="25.08"/>
+    <it nm="inflat" vl="18.70"/>
+    <it nm="unempl" vl="19.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~0.59"/>
+    <it nm="costpr" vl="35.80"/>
+  </cn>
+  <!--fiji-->
+  <cn nm="fin" ct="2">
+    <it nm="airpol" vl="5.00"/>
+    <it nm="humdev" vl="0.925"/>
+    <it nm="gayhap" vl="69"/>
+    <it nm="lngepi" vl="631"/>
+    <it nm="langen" vl="70"/>
+    <it nm="avgwth" vl="2.7"/>
+    <it nm="sumwin" vl="23.6"/>
+    <it nm="crimer" vl="25.53"/>
+    <it nm="worisk" vl="1.94"/>
+    <it nm="gpeace" vl="1.488"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="11.7"/>
+    <it nm="sunshn" vl="1858"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="37.50"/>
+    <it nm="fredrg" vl="56.71"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="85"/>
+    <it nm="democr" vl="9.25"/>
+    <it nm="traffc" vl="90.83"/>
+    <it nm="migacc" vl="6.58"/>
+    <it nm="racism" vl="66"/>
+    <it nm="bdhair" vl="~62"/>
+    <it nm="blonde" vl="80"/>
+    <it nm="intusr" vl="87.47"/>
+    <it nm="ginnov" vl="59.83"/>
+    <it nm="gtacoi" vl="74.47"/>
+    <it nm="inflat" vl="0.20"/>
+    <it nm="unempl" vl="7.60"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~28.19"/>
+    <it nm="costpr" vl="53.85"/>
+  </cn>
+  <cn nm="franc" ct="2">
+    <it nm="airpol" vl="11.10"/>
+    <it nm="humdev" vl="0.891"/>
+    <it nm="gayhap" vl="63"/>
+    <it nm="lngepi" vl="559"/>
+    <it nm="langen" vl="39"/>
+    <it nm="avgwth" vl="11.2"/>
+    <it nm="sumwin" vl="15.2"/>
+    <it nm="crimer" vl="47.37"/>
+    <it nm="worisk" vl="2.37"/>
+    <it nm="gpeace" vl="1.892"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="12.1"/>
+    <it nm="sunshn" vl="2166.67"/>
+    <it nm="frerel" vl="88.75"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="13.50"/>
+    <it nm="fresex" vl="81.00"/>
+    <it nm="fretht" vl="2"/>
+    <it nm="democr" vl="8.12"/>
+    <it nm="traffc" vl="126.99"/>
+    <it nm="migacc" vl="6.46"/>
+    <it nm="racism" vl="34"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="37"/>
+    <it nm="intusr" vl="80.50"/>
+    <it nm="ginnov" vl="54.25"/>
+    <it nm="gtacoi" vl="64.83"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="7.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="34.16"/>
+    <it nm="costpr" vl="55.38"/>
+  </cn>
+  <!--gabon-->
+  <!--gamb-->
+  <cn nm="georg" ct="2">
+    <it nm="airpol" vl="20.40"/>
+    <it nm="humdev" vl="0.786"/>
+    <it nm="gayhap" vl="34"/>
+    <it nm="lngepi" vl="503"/>
+    <it nm="langen" vl="-" ex="braz"/>
+    <it nm="avgwth" vl="13.8"/>
+    <it nm="sumwin" vl="18.1"/>
+    <it nm="crimer" vl="20.50"/>
+    <it nm="worisk" vl="5.48"/>
+    <it nm="gpeace" vl="2.122"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="6.7"/>
+    <it nm="sunshn" vl="2046"/>
+    <it nm="frerel" vl="94.95"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="71.07"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="47"/>
+    <it nm="democr" vl="5.42"/>
+    <it nm="traffc" vl="123.28"/>
+    <it nm="migacc" vl="34.00"/>
+    <it nm="racism" vl="83"/>
+    <it nm="bdhair" vl="~58"/>
+    <it nm="blonde" vl="6"/>
+    <it nm="intusr" vl="60.49"/>
+    <it nm="ginnov" vl="36.98"/>
+    <it nm="gtacoi" vl="41.11"/>
+    <it nm="inflat" vl="3.80"/>
+    <it nm="unempl" vl="12.70"/>
+    <it nm="conscr" vl="10"/>
+    <it nm="mwcosr" vl="0.49"/>
+    <it nm="costpr" vl="19.15"/>
+  </cn>
+  <cn nm="german" ct="2">
+    <it nm="airpol" vl="10.10"/>
+    <it nm="humdev" vl="0.939"/>
+    <it nm="gayhap" vl="68"/>
+    <it nm="lngepi" vl="616"/>
+    <it nm="langen" vl="56"/>
+    <it nm="avgwth" vl="7.8"/>
+    <it nm="sumwin" vl="16.9"/>
+    <it nm="crimer" vl="35.14"/>
+    <it nm="worisk" vl="2.43"/>
+    <it nm="gpeace" vl="1.547"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="9.1"/>
+    <it nm="sunshn" vl="1644"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="62.00"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="127"/>
+    <it nm="democr" vl="8.68"/>
+    <it nm="traffc" vl="106.2"/>
+    <it nm="migacc" vl="7.09"/>
+    <it nm="racism" vl="45"/>
+    <it nm="bdhair" vl="~60"/>
+    <it nm="blonde" vl="66"/>
+    <it nm="intusr" vl="86"/>
+    <it nm="ginnov" vl="58.19"/>
+    <it nm="gtacoi" vl="72.34"/>
+    <it nm="inflat" vl="-0.20"/>
+    <it nm="unempl" vl="4.50"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="39.91"/>
+    <it nm="costpr" vl="51.04"/>
+  </cn>
+  <!--ghana-->
+  <cn nm="greec" ct="2">
+    <it nm="airpol" vl="18.40"/>
+    <it nm="humdev" vl="0.872"/>
+    <it nm="gayhap" vl="45"/>
+    <it nm="lngepi" vl="578"/>
+    <it nm="langen" vl="51"/>
+    <it nm="avgwth" vl="16.9"/>
+    <it nm="sumwin" vl="17.2"/>
+    <it nm="crimer" vl="41.30"/>
+    <it nm="worisk" vl="6.89"/>
+    <it nm="gpeace" vl="1.933"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="3.8"/>
+    <it nm="sunshn" vl="2773"/>
+    <it nm="frerel" vl="94.25"/>
+    <it nm="frebio" vl="88.75"/>
+    <it nm="fredrg" vl="38.58"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="24"/>
+    <it nm="democr" vl="7.43"/>
+    <it nm="traffc" vl="132.79"/>
+    <it nm="migacc" vl="3.34"/>
+    <it nm="racism" vl="69"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="4"/>
+    <it nm="intusr" vl="71"/>
+    <it nm="ginnov" vl="38.90"/>
+    <it nm="gtacoi" vl="47.51"/>
+    <it nm="inflat" vl="-2.00"/>
+    <it nm="unempl" vl="16.80"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="25.42"/>
+    <it nm="costpr" vl="38.07"/>
+  </cn>
+  <!--grenad-->
+  <!--guatem-->
+  <!--guinea-->
+  <!--guineabiss-->
+  <!--guyana-->
+  <!--haiti-->
+  <!--holsee-->
+  <!--hondur-->
+  <cn nm="hungar" ct="2">
+    <it nm="airpol" vl="14.30"/>
+    <it nm="humdev" vl="0.845"/>
+    <it nm="gayhap" vl="47"/>
+    <it nm="lngepi" vl="598"/>
+    <it nm="langen" vl="20"/>
+    <it nm="avgwth" vl="10"/>
+    <it nm="sumwin" vl="21.2"/>
+    <it nm="crimer" vl="35.23"/>
+    <it nm="worisk" vl="4.94"/>
+    <it nm="gpeace" vl="1.540"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.6"/>
+    <it nm="sunshn" vl="1988"/>
+    <it nm="frerel" vl="93.21"/>
+    <it nm="frebio" vl="88.75"/>
+    <it nm="fredrg" vl="19.91"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="80"/>
+    <it nm="democr" vl="6.63"/>
+    <it nm="traffc" vl="127.14"/>
+    <it nm="migacc" vl="1.69"/>
+    <it nm="racism" vl="79"/>
+    <it nm="bdhair" vl="~64"/>
+    <it nm="blonde" vl="29"/>
+    <it nm="intusr" vl="76.75"/>
+    <it nm="ginnov" vl="44.51"/>
+    <it nm="gtacoi" vl="46.62"/>
+    <it nm="inflat" vl="3.40"/>
+    <it nm="unempl" vl="4.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="21.99"/>
+    <it nm="costpr" vl="28.42"/>
+  </cn>
+  <cn nm="ice" ct="2">
+    <it nm="airpol" vl="7.20"/>
+    <it nm="humdev" vl="0.938"/>
+    <it nm="gayhap" vl="79"/>
+    <it nm="lngepi" vl="-" ex="norw"/>
+    <it nm="langen" vl="-" ex="norw"/>
+    <it nm="avgwth" vl="3.4"/>
+    <it nm="sumwin" vl="10.9"/>
+    <it nm="crimer" vl="23.70"/>
+    <it nm="worisk" vl="1.71"/>
+    <it nm="gpeace" vl="1.072"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.3"/>
+    <it nm="sunshn" vl="1326"/>
+    <it nm="frerel" vl="89.13"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="40.00"/>
+    <it nm="fresex" vl="20.00"/>
+    <it nm="fretht" vl="27"/>
+    <it nm="democr" vl="9.58"/>
+    <it nm="traffc" vl="91.18"/>
+    <it nm="migacc" vl="8.26"/>
+    <it nm="racism" vl="-" ex="norw"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="-" ex="fin"/>
+    <it nm="intusr" vl="98.26"/>
+    <it nm="ginnov" vl="51.53"/>
+    <it nm="gtacoi" vl="70.9"/>
+    <it nm="inflat" vl="3.60"/>
+    <it nm="unempl" vl="6.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~36.93"/>
+    <it nm="costpr" vl="71.16"/>
+  </cn>
+  <cn nm="ind" ct="1">
+    <it nm="airpol" vl="51.90"/>
+    <it nm="humdev" vl="0.647"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="496"/>
+    <it nm="langen" vl="12.18"/>
+    <it nm="avgwth" vl="24.2"/>
+    <it nm="sumwin" vl="12.3"/>
+    <it nm="crimer" vl="44.42"/>
+    <it nm="worisk" vl="6.77"/>
+    <it nm="gpeace" vl="2.605"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="16.5"/>
+    <it nm="sunshn" vl="2434.15"/>
+    <it nm="frerel" vl="73.25"/>
+    <it nm="frebio" vl="77.50"/>
+    <it nm="fredrg" vl="53.75"/>
+    <it nm="fresex" vl="46.00"/>
+    <it nm="fretht" vl="102"/>
+    <it nm="democr" vl="6.90"/>
+    <it nm="traffc" vl="206.74"/>
+    <it nm="migacc" vl="4.9"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~30"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="54.29"/>
+    <it nm="ginnov" vl="36.58"/>
+    <it nm="gtacoi" vl="40.42"/>
+    <it nm="inflat" vl="7.34"/>
+    <it nm="unempl" vl="6.70"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="3.85"/>
+    <it nm="costpr" vl="15.90"/>
+  </cn>
+  <cn nm="indones" ct="1">
+    <it nm="airpol" vl="40.70"/>
+    <it nm="humdev" vl="0.708"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="453"/>
+    <it nm="langen" vl="-" ex="braz"/>
+    <it nm="avgwth" vl="26.3"/>
+    <it nm="sumwin" vl="1.1"/>
+    <it nm="crimer" vl="46.06"/>
+    <it nm="worisk" vl="10.58"/>
+    <it nm="gpeace" vl="1.785"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="3.7"/>
+    <it nm="sunshn" vl="2983.3"/>
+    <it nm="frerel" vl="20.51"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="17.27"/>
+    <it nm="fresex" vl="60.00"/>
+    <it nm="fretht" vl="725"/>
+    <it nm="democr" vl="6.48"/>
+    <it nm="traffc" vl="195.8"/>
+    <it nm="migacc" vl="3.93"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="64.80"/>
+    <it nm="ginnov" vl="29.72"/>
+    <it nm="gtacoi" vl="41.81"/>
+    <it nm="inflat" vl="1.42"/>
+    <it nm="unempl" vl="4.99"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="9.20"/>
+    <it nm="costpr" vl="24.47"/>
+  </cn>
+  <cn nm="iran" ct="1">
+    <it nm="airpol" vl="27.20"/>
+    <it nm="humdev" vl="0.797"/>
+    <it nm="gayhap" vl="26"/>
+    <it nm="lngepi" vl="483"/>
+    <it nm="langen" vl="-" ex="colom"/>
+    <it nm="avgwth" vl="16.2"/>
+    <it nm="sumwin" vl="24.7"/>
+    <it nm="crimer" vl="48.91"/>
+    <it nm="worisk" vl="4.92"/>
+    <it nm="gpeace" vl="2.542"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="4.0"/>
+    <it nm="sunshn" vl="2826.1"/>
+    <it nm="frerel" vl="5.63"/>
+    <it nm="frebio" vl="35.63"/>
+    <it nm="fredrg" vl="25.00"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="1287"/>
+    <it nm="democr" vl="2.38"/>
+    <it nm="traffc" vl="216.09"/>
+    <it nm="migacc" vl="3.95"/>
+    <it nm="racism" vl="0"/><!--?!?-->
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="60.42"/>
+    <it nm="ginnov" vl="34.43"/>
+    <it nm="gtacoi" vl="32.68"/>
+    <it nm="inflat" vl="34.40"/>
+    <it nm="unempl" vl="9.80"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="2.28"/>
+    <it nm="costpr" vl="30.13"/>
+  </cn>
+  <cn nm="iraq" ct="1">
+    <it nm="airpol" vl="-" ex="kuwait+iran"/>
+    <it nm="humdev" vl="0.689"/>
+    <it nm="gayhap" vl="24"/>
+    <it nm="lngepi" vl="383"/>
+    <it nm="langen" vl="35"/>
+    <it nm="avgwth" vl="22.4"/>
+    <it nm="sumwin" vl="25.4"/>
+    <it nm="crimer" vl="48.00"/>
+    <it nm="worisk" vl="5.95"/>
+    <it nm="gpeace" vl="3.573"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="4.1"/>
+    <it nm="sunshn" vl="3240.8"/>
+    <it nm="frerel" vl="32.50"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="420"/>
+    <it nm="democr" vl="3.74"/>
+    <it nm="traffc" vl="159.46"/>
+    <it nm="migacc" vl="3.42"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="49.36"/>
+    <it nm="ginnov" vl="-" ex="jord"/>
+    <it nm="gtacoi" vl="-" ex="jord"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="7.90"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="8.47"/>
+    <it nm="costpr" vl="21.75"/>
+  </cn>
+  <cn nm="ire" ct="2">
+    <it nm="airpol" vl="8.60"/>
+    <it nm="humdev" vl="0.942"/>
+    <it nm="gayhap" vl="62"/>
+    <it nm="lngepi" vl="-" ex="uk"/>
+    <it nm="langen" vl="98.37"/>
+    <it nm="avgwth" vl="9.6"/>
+    <it nm="sumwin" vl="9.6"/>
+    <it nm="crimer" vl="45.68"/>
+    <it nm="worisk" vl="4.37"/>
+    <it nm="gpeace" vl="1.390"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.9"/>
+    <it nm="sunshn" vl="1453"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="68.75"/>
+    <it nm="fredrg" vl="38.82"/>
+    <it nm="fresex" vl="76.25"/>
+    <it nm="fretht" vl="65"/>
+    <it nm="democr" vl="9.24"/>
+    <it nm="traffc" vl="150.41"/>
+    <it nm="migacc" vl="7.74"/>
+    <it nm="racism" vl="40"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="38"/>
+    <it nm="intusr" vl="84.52"/>
+    <it nm="ginnov" vl="56.10"/>
+    <it nm="gtacoi" vl="70.45"/>
+    <it nm="inflat" vl="-1.20"/>
+    <it nm="unempl" vl="5.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="33.50"/>
+    <it nm="costpr" vl="65.10"/>
+  </cn>
+  <cn nm="heb" ct="1">
+    <it nm="airpol" vl="16.90"/>
+    <it nm="humdev" vl="0.906"/>
+    <it nm="gayhap" vl="71"/>
+    <it nm="lngepi" vl="-" ex="german"/>
+    <it nm="langen" vl="84.97"/>
+    <it nm="avgwth" vl="19.2"/>
+    <it nm="sumwin" vl="15.3"/>
+    <it nm="crimer" vl="30.44"/>
+    <it nm="worisk" vl="3.24"/>
+    <it nm="gpeace" vl="2.735"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="5.2"/>
+    <it nm="sunshn" vl="3311.0"/>
+    <it nm="frerel" vl="74.13"/>
+    <it nm="frebio" vl="36.25"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="76.00"/>
+    <it nm="fretht" vl="321"/>
+    <it nm="democr" vl="7.86"/>
+    <it nm="traffc" vl="150.29"/>
+    <it nm="migacc" vl="1.87"/>
+    <it nm="racism" vl="-" ex="armen"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="-" ex="georg"/>
+    <it nm="intusr" vl="81.58"/>
+    <it nm="ginnov" vl="57.43"/>
+    <it nm="gtacoi" vl="65.66"/>
+    <it nm="inflat" vl="-0.70"/>
+    <it nm="unempl" vl="4.70"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="25.94"/>
+    <it nm="costpr" vl="60.48"/>
+  </cn>
+  <cn nm="ital" ct="2">
+    <it nm="airpol" vl="18.50"/>
+    <it nm="humdev" vl="0.883"/>
+    <it nm="gayhap" vl="51"/>
+    <it nm="lngepi" vl="547"/>
+    <it nm="langen" vl="34"/>
+    <it nm="avgwth" vl="13.5"/>
+    <it nm="sumwin" vl="16.7"/>
+    <it nm="crimer" vl="44.24"/>
+    <it nm="worisk" vl="4.57"/>
+    <it nm="gpeace" vl="1.754"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="5.5"/>
+    <it nm="sunshn" vl="2254.33"/>
+    <it nm="frerel" vl="89.38"/>
+    <it nm="frebio" vl="72.50"/>
+    <it nm="fredrg" vl="34.00"/>
+    <it nm="fresex" vl="86.00"/>
+    <it nm="fretht" vl="185"/>
+    <it nm="democr" vl="7.52"/>
+    <it nm="traffc" vl="133.82"/>
+    <it nm="migacc" vl="6.49"/>
+    <it nm="racism" vl="57"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="15"/>
+    <it nm="intusr" vl="61.30"/>
+    <it nm="ginnov" vl="46.30"/>
+    <it nm="gtacoi" vl="52.91"/>
+    <it nm="inflat" vl="-0.30"/>
+    <it nm="unempl" vl="9.60"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~33.83"/>
+    <it nm="costpr" vl="49.13"/>
+  </cn>
+  <!--jamaic-->
+  <cn nm="jpn" ct="1">
+    <it nm="airpol" vl="9.80"/>
+    <it nm="humdev" vl="0.915"/>
+    <it nm="gayhap" vl="50"/>
+    <it nm="lngepi" vl="487"/>
+    <it nm="langen" vl="-" ex="mexic"/>
+    <it nm="avgwth" vl="13.9"/>
+    <it nm="sumwin" vl="21.2"/>
+    <it nm="crimer" vl="21.67"/>
+    <it nm="worisk" vl="9.19"/>
+    <it nm="gpeace" vl="1.369"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="14.3"/>
+    <it nm="sunshn" vl="1808.55"/>
+    <it nm="frerel" vl="95.25"/>
+    <it nm="frebio" vl="52.50"/>
+    <it nm="fredrg" vl="24.00"/>
+    <it nm="fresex" vl="35.00"/>
+    <it nm="fretht" vl="2"/>
+    <it nm="democr" vl="7.99"/>
+    <it nm="traffc" vl="132.05"/>
+    <it nm="migacc" vl="6.42"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~35"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="90.87"/>
+    <it nm="ginnov" vl="54.68"/>
+    <it nm="gtacoi" vl="66.06"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="3.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="22.18"/>
+    <it nm="costpr" vl="59.23"/>
+  </cn>
+  <cn nm="jord" ct="1">
+    <it nm="airpol" vl="14.90"/>
+    <it nm="humdev" vl="0.723"/>
+    <it nm="gayhap" vl="34"/>
+    <it nm="lngepi" vl="456"/>
+    <it nm="langen" vl="45"/>
+    <it nm="avgwth" vl="18.5"/>
+    <it nm="sumwin" vl="18.5"/><!--;)-->
+    <it nm="crimer" vl="40.83"/>
+    <it nm="worisk" vl="4.08"/>
+    <it nm="gpeace" vl="2.012"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="3.7"/>
+    <it nm="sunshn" vl="-" ex="arabia"/>
+    <it nm="frerel" vl="29.60"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="19.53"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="656"/>
+    <it nm="democr" vl="3.93"/>
+    <it nm="traffc" vl="192.91"/>
+    <it nm="migacc" vl="2.99"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="66.79"/>
+    <it nm="ginnov" vl="29.61"/>
+    <it nm="gtacoi" vl="43.48"/>
+    <it nm="inflat" vl="-1.00"/>
+    <it nm="unempl" vl="23.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="13.91"/>
+    <it nm="costpr" vl="31.87"/>
+  </cn>
+  <cn nm="kazakh" ct="1">
+    <it nm="airpol" vl="21.90"/>
+    <it nm="humdev" vl="0.817"/>
+    <it nm="gayhap" vl="29"/>
+    <it nm="lngepi" vl="412"/>
+    <it nm="langen" vl="15.4"/>
+    <it nm="avgwth" vl="6"/>
+    <it nm="sumwin" vl="34.6"/>
+    <it nm="crimer" vl="54.81"/>
+    <it nm="worisk" vl="3.56"/>
+    <it nm="gpeace" vl="1.932"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="22.8"/>
+    <it nm="sunshn" vl="2431.5"/>
+    <it nm="frerel" vl="48.19"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="16.41"/>
+    <it nm="fresex" vl="60.00"/>
+    <it nm="fretht" vl="80"/>
+    <it nm="democr" vl="2.94"/>
+    <it nm="traffc" vl="128.42"/>
+    <it nm="migacc" vl="4.28"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~52"/>
+    <it nm="blonde" vl="-" ex="rus+kyrgyz+kyrgyz+kyrgyz+kyrgyz"/>
+    <it nm="intusr" vl="76.43"/>
+    <it nm="ginnov" vl="31.03"/>
+    <it nm="gtacoi" vl="46.02"/>
+    <it nm="inflat" vl="7.00"/>
+    <it nm="unempl" vl="5.00"/>
+    <it nm="conscr" vl="10"/>
+    <it nm="mwcosr" vl="4.23"/>
+    <it nm="costpr" vl="19.99"/>
+  </cn>
+  <!--kenya-->
+  <!--kiribas-->
+  <!--kos-->
+  <cn nm="kuwait" ct="1">
+    <it nm="airpol" vl="34.00"/>
+    <it nm="humdev" vl="0.808"/>
+    <it nm="gayhap" vl="42"/>
+    <it nm="lngepi" vl="461"/>
+    <it nm="langen" vl="-" ex="turk"/>
+    <it nm="avgwth" vl="24.7"/>
+    <it nm="sumwin" vl="23.8"/>
+    <it nm="crimer" vl="34.57"/>
+    <it nm="worisk" vl="4.49"/>
+    <it nm="gpeace" vl="1.794"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="2.2"/>
+    <it nm="sunshn" vl="-" ex="iraq"/>
+    <it nm="frerel" vl="33.38"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="589"/>
+    <it nm="democr" vl="3.93"/>
+    <it nm="traffc" vl="156.59"/>
+    <it nm="migacc" vl="4.85"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~65"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="98.00"/>
+    <it nm="ginnov" vl="34.55"/>
+    <it nm="gtacoi" vl="42.65"/>
+    <it nm="inflat" vl="2.18"/>
+    <it nm="unempl" vl="2.17"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="4.99"/>
+    <it nm="costpr" vl="40.82"/>
+  </cn>
+  <cn nm="kyrgyz" ct="1">
+    <it nm="airpol" vl="43.50"/>
+    <it nm="humdev" vl="0.674"/>
+    <it nm="gayhap" vl="22"/>
+    <it nm="lngepi" vl="405"/>
+    <it nm="langen" vl="-" ex="iraq"/>
+    <it nm="avgwth" vl="8.3"/>
+    <it nm="sumwin" vl="28.7"/>
+    <it nm="crimer" vl="~59.97"/>
+    <it nm="worisk" vl="7.28"/>
+    <it nm="gpeace" vl="2.105"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="9.1"/>
+    <it nm="sunshn" vl="-" ex="kazakh"/>
+    <it nm="frerel" vl="52.25"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="16.34"/>
+    <it nm="fresex" vl="77.50"/>
+    <it nm="fretht" vl="20"/>
+    <it nm="democr" vl="4.89"/>
+    <it nm="traffc" vl="160.60"/>
+    <it nm="migacc" vl="4.59"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~45"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="38.20"/>
+    <it nm="ginnov" vl="28.38"/>
+    <it nm="gtacoi" vl="35.72"/>
+    <it nm="inflat" vl="5.40"/>
+    <it nm="unempl" vl="3.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="1.03"/>
+    <it nm="costpr" vl="15.55"/>
+  </cn>
+  <!--lao-->
+  <cn nm="latvia" ct="2">
+    <it nm="airpol" vl="11.30"/>
+    <it nm="humdev" vl="0.854"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="555"/>
+    <it nm="langen" vl="46"/>
+    <it nm="avgwth" vl="6"/>
+    <it nm="sumwin" vl="20.1"/>
+    <it nm="crimer" vl="37.43"/>
+    <it nm="worisk" vl="2.93"/>
+    <it nm="gpeace" vl="1.718"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="17.2"/>
+    <it nm="sunshn" vl="1754"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="19.76"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="24"/>
+    <it nm="democr" vl="7.49"/>
+    <it nm="traffc" vl="116.67"/>
+    <it nm="migacc" vl="2.04"/>
+    <it nm="racism" vl="81"/>
+    <it nm="bdhair" vl="~57"/>
+    <it nm="blonde" vl="66"/>
+    <it nm="intusr" vl="81.32"/>
+    <it nm="ginnov" vl="43.23"/>
+    <it nm="gtacoi" vl="54.4"/>
+    <it nm="inflat" vl="-0.30"/>
+    <it nm="unempl" vl="8.60"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="16.21"/>
+    <it nm="costpr" vl="33.90"/>
+  </cn>
+  <cn nm="leban" ct="1">
+    <it nm="airpol" vl="-" ex="turk+heb"/>
+    <it nm="humdev" vl="0.730"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="-" ex="franc"/>
+    <it nm="langen" vl="40"/>
+    <it nm="avgwth" vl="15.7"/>
+    <it nm="sumwin" vl="15.9"/>
+    <it nm="crimer" vl="44.07"/>
+    <it nm="worisk" vl="5.27"/>
+    <it nm="gpeace" vl="2.800"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="3.2"/>
+    <it nm="sunshn" vl="-" ex="heb"/>
+    <it nm="frerel" vl="91.05"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="37.84"/>
+    <it nm="fresex" vl="67.50"/>
+    <it nm="fretht" vl="233"/>
+    <it nm="democr" vl="4.36"/>
+    <it nm="traffc" vl="184.61"/>
+    <it nm="migacc" vl="3.89"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="~1"/>
+    <it nm="intusr" vl="78.18"/>
+    <it nm="ginnov" vl="28.54"/>
+    <it nm="gtacoi" vl="-" ex="turk"/>
+    <it nm="inflat" vl="120.03"/>
+    <it nm="unempl" vl="6.20"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="10.15"/>
+    <it nm="costpr" vl="51.13"/>
+  </cn>
+  <!--lesoth-->
+  <!--liber-->
+  <cn nm="liby" ct="0">
+    <it nm="airpol" vl="-" ex="alger+egypt"/>
+    <it nm="humdev" vl="0.708"/>
+    <it nm="gayhap" vl="-" ex="alger+egypt"/>
+    <it nm="lngepi" vl="40.87"/>
+    <it nm="langen" vl="-" ex="alger"/>
+    <it nm="avgwth" vl="20.1"/>
+    <it nm="sumwin" vl="15.7"/>
+    <it nm="crimer" vl="62.27"/>
+    <it nm="worisk" vl="3.34"/>
+    <it nm="gpeace" vl="3.285"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="5.5"/>
+    <it nm="sunshn" vl="3178.1"/>
+    <it nm="frerel" vl="18.21"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="20.42"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="20.00"/>
+    <it nm="democr" vl="2.02"/>
+    <it nm="traffc" vl="-" ex="egypt+moroc"/>
+    <it nm="migacc" vl="5.79"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~60"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="21.76"/>
+    <it nm="ginnov" vl="-" ex="niger"/>
+    <it nm="gtacoi" vl="-" ex="ymn"/>
+    <it nm="inflat" vl="1.30"/>
+    <it nm="unempl" vl="17.30"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="7.90"/>
+    <it nm="costpr" vl="14.37"/>
+  </cn>
+  <!--liechtens-->
+  <cn nm="lithua" ct="2">
+    <it nm="airpol" vl="11.70"/>
+    <it nm="humdev" vl="0.869"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="570"/>
+    <it nm="langen" vl="38"/>
+    <it nm="avgwth" vl="6.2"/>
+    <it nm="sumwin" vl="20.8"/>
+    <it nm="crimer" vl="33.88"/>
+    <it nm="worisk" vl="2.29"/>
+    <it nm="gpeace" vl="1.779"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="25.7"/>
+    <it nm="sunshn" vl="1691"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="36.69"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="36"/>
+    <it nm="democr" vl="7.50"/>
+    <it nm="traffc" vl="94.44"/>
+    <it nm="migacc" vl="2.72"/>
+    <it nm="racism" vl="84"/>
+    <it nm="bdhair" vl="~56"/>
+    <it nm="blonde" vl="57"/>
+    <it nm="intusr" vl="77.62"/>
+    <it nm="ginnov" vl="41.46"/>
+    <it nm="gtacoi" vl="53.32"/>
+    <it nm="inflat" vl="0.70"/>
+    <it nm="unempl" vl="14.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="23.55"/>
+    <it nm="costpr" vl="31.88"/>
+  </cn>
+  <cn nm="luxem" ct="2">
+    <it nm="airpol" vl="9.00"/>
+    <it nm="humdev" vl="0.909"/>
+    <it nm="gayhap" vl="70"/>
+    <it nm="lngepi" vl="610"/>
+    <it nm="langen" vl="56"/>
+    <it nm="avgwth" vl="8"/>
+    <it nm="sumwin" vl="16.6"/>
+    <it nm="crimer" vl="32.75"/>
+    <it nm="worisk" vl="2.36"/>
+    <it nm="gpeace" vl="-" ex="nether"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.4"/>
+    <it nm="sunshn" vl="1634"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="80.00"/>
+    <it nm="fredrg" vl="73.43"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="27"/>
+    <it nm="democr" vl="8.81"/>
+    <it nm="traffc" vl="121.21"/>
+    <it nm="migacc" vl="7.54"/>
+    <it nm="racism" vl="-" ex="franc"/>
+    <it nm="bdhair" vl="~65"/>
+    <it nm="blonde" vl="-" ex="belg+franc+german"/>
+    <it nm="intusr" vl="97.83"/>
+    <it nm="ginnov" vl="53.47"/>
+    <it nm="gtacoi" vl="73.94"/>
+    <it nm="inflat" vl="0.70"/>
+    <it nm="unempl" vl="6.30"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="35.00"/>
+    <it nm="costpr" vl="75.54"/>
+  </cn>
+  <!--madagas-->
+  <!--malaw-->
+  <cn nm="malay" ct="1">
+    <it nm="airpol" vl="15.60"/>
+    <it nm="humdev" vl="0.804"/>
+    <it nm="gayhap" vl="38"/>
+    <it nm="lngepi" vl="547"/>
+    <it nm="langen" vl="62.57"/>
+    <it nm="avgwth" vl="26.1"/>
+    <it nm="sumwin" vl="1.2"/>
+    <it nm="crimer" vl="58.55"/>
+    <it nm="worisk" vl="7.61"/>
+    <it nm="gpeace" vl="1.529"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="6.2"/>
+    <it nm="sunshn" vl="-" ex="singap"/>
+    <it nm="frerel" vl="77.34"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="19.05"/>
+    <it nm="fresex" vl="30.00"/>
+    <it nm="fretht" vl="923"/>
+    <it nm="democr" vl="7.16"/>
+    <it nm="traffc" vl="169.33"/>
+    <it nm="migacc" vl="-" ex="philip"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="45"/>
+    <it nm="ginnov" vl="42.68"/>
+    <it nm="gtacoi" vl="60.04"/>
+    <it nm="inflat" vl="-1.40"/>
+    <it nm="unempl" vl="4.70"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="8.81"/>
+    <it nm="costpr" vl="25.78"/>
+  </cn>
+  <!--maldav-->
+  <!--mali-->
+  <cn nm="malt" ct="2">
+    <it nm="airpol" vl="11.80"/>
+    <it nm="humdev" vl="0.885"/>
+    <it nm="gayhap" vl="61"/>
+    <it nm="lngepi" vl="-" ex="ital"/>
+    <it nm="langen" vl="89"/>
+    <it nm="avgwth" vl="18.7"/>
+    <it nm="sumwin" vl="14.4"/>
+    <it nm="crimer" vl="39.37"/>
+    <it nm="worisk" vl="0.54"/>
+    <it nm="gpeace" vl="-" ex="cypr"/>
+    <it nm="dnganm" vl="-" ex="ital"/>
+    <it nm="suicid" vl="6.5"/>
+    <it nm="sunshn" vl="3054"/>
+    <it nm="frerel" vl="95.13"/>
+    <it nm="frebio" vl="0.00"/>
+    <it nm="fredrg" vl="73.04"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="76"/>
+    <it nm="democr" vl="7.95"/>
+    <it nm="traffc" vl="100.93"/>
+    <it nm="migacc" vl="4.95"/>
+    <it nm="racism" vl="0"/><!--?!?-->
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="-" ex="ital+alger"/>
+    <it nm="intusr" vl="80.07"/>
+    <it nm="ginnov" vl="49.01"/>
+    <it nm="gtacoi" vl="62.02"/>
+    <it nm="inflat" vl="0.50"/>
+    <it nm="unempl" vl="4.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="18.31"/>
+    <it nm="costpr" vl="54.19"/>
+  </cn>
+  <!--marshal-->
+  <!--mauritan-->
+  <!--mauritius-->
+  <cn nm="mexic" ct="4">
+    <it nm="airpol" vl="18.90"/>
+    <it nm="humdev" vl="0.767"/>
+    <it nm="gayhap" vl="56"/>
+    <it nm="lngepi" vl="440"/>
+    <it nm="langen" vl="12.9"/>
+    <it nm="avgwth" vl="20.6"/>
+    <it nm="sumwin" vl="7.6"/>
+    <it nm="crimer" vl="53.31"/>
+    <it nm="worisk" vl="6.01"/>
+    <it nm="gpeace" vl="2.600"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="5.2"/>
+    <it nm="sunshn" vl="2596.25"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="77.50"/>
+    <it nm="fredrg" vl="56.00"/>
+    <it nm="fresex" vl="95.00"/>
+    <it nm="fretht" vl="13"/>
+    <it nm="democr" vl="6.09"/>
+    <it nm="traffc" vl="176.55"/>
+    <it nm="migacc" vl="4.75"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~38"/>
+    <it nm="blonde" vl="-" ex="spain+ind"/>
+    <it nm="intusr" vl="63.85"/>
+    <it nm="ginnov" vl="36.06"/>
+    <it nm="gtacoi" vl="41.03"/>
+    <it nm="inflat" vl="4.01"/>
+    <it nm="unempl" vl="5.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="9.47"/>
+    <it nm="costpr" vl="23.86"/>
+  </cn>
+  <!--micrones-->
+  <!--moldov-->
+  <!--monaco-->
+  <cn nm="mongol" ct="1">
+    <it nm="airpol" vl="46.60"/>
+    <it nm="humdev" vl="0.735"/>
+    <it nm="gayhap" vl="-" ex="china"/>
+    <it nm="lngepi" vl="446"/>
+    <it nm="langen" vl="-" ex="kazakh"/>
+    <it nm="avgwth" vl="0.2"/>
+    <it nm="sumwin" vl="37.7"/>
+    <it nm="crimer" vl="57.47"/>
+    <it nm="worisk" vl="3.00"/>
+    <it nm="gpeace" vl="1.792"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.3"/>
+    <it nm="sunshn" vl="2791.5"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="20.85"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="13"/>
+    <it nm="democr" vl="6.50"/>
+    <it nm="traffc" vl="121.08"/>
+    <it nm="migacc" vl="2.99"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~12"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="23.71"/>
+    <it nm="ginnov" vl="36.29"/>
+    <it nm="gtacoi" vl="39.62"/>
+    <it nm="inflat" vl="1.70"/>
+    <it nm="unempl" vl="8.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="7.55"/>
+    <it nm="costpr" vl="22.05"/>
+  </cn>
+  <!--montenegr-->
+  <cn nm="moroc" ct="0">
+    <it nm="airpol" vl="-" ex="alger"/>
+    <it nm="humdev" vl="0.676"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="453"/>
+    <it nm="langen" vl="14"/>
+    <it nm="avgwth" vl="17.4"/>
+    <it nm="sumwin" vl="13.6"/>
+    <it nm="crimer" vl="48.97"/>
+    <it nm="worisk" vl="5.83"/>
+    <it nm="gpeace" vl="2.070"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="3.1"/>
+    <it nm="sunshn" vl="3155.47"/>
+    <it nm="frerel" vl="38.84"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="32.70"/>
+    <it nm="fresex" vl="32.50"/>
+    <it nm="fretht" vl="705"/>
+    <it nm="democr" vl="5.10"/>
+    <it nm="traffc" vl="131.94"/>
+    <it nm="migacc" vl="6.39"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~68"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="61.76"/>
+    <it nm="ginnov" vl="31.63"/>
+    <it nm="gtacoi" vl="32.93"/>
+    <it nm="inflat" vl="1.40"/>
+    <it nm="unempl" vl="12.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="14.21"/>
+    <it nm="costpr" vl="23.89"/>
+  </cn>
+  <!--mozam-->
+  <cn nm="myanm" ct="1">
+    <it nm="airpol" vl="29.40"/>
+    <it nm="humdev" vl="0.584"/>
+    <it nm="gayhap" vl="42"/>
+    <it nm="lngepi" vl="411"/>
+    <it nm="langen" vl="4.45"/>
+    <it nm="avgwth" vl="25.7"/>
+    <it nm="sumwin" vl="7.2"/>
+    <it nm="crimer" vl="46.93"/>
+    <it nm="worisk" vl="7.27"/>
+    <it nm="gpeace" vl="2.393"/>
+    <it nm="dnganm" vl="~45"/>
+    <it nm="suicid" vl="8.1"/>
+    <it nm="sunshn" vl="-" ex="thai"/>
+    <it nm="frerel" vl="12.14"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="33.69"/>
+    <it nm="fresex" vl="62.50"/>
+    <it nm="fretht" vl="176"/>
+    <it nm="democr" vl="3.55"/>
+    <it nm="traffc" vl="-" ex="thai"/>
+    <it nm="migacc" vl="2.96"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~6"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="30.68"/>
+    <it nm="ginnov" vl="-" ex="srilanka"/>
+    <it nm="gtacoi" vl="-" ex="srilanka"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="1.60"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="1.92"/>
+    <it nm="costpr" vl="30.25"/>
+  </cn>
+  <!--namibia-->
+  <!--nauru-->
+  <!--nepal-->
+  <cn nm="nether" ct="2">
+    <it nm="airpol" vl="9.70"/>
+    <it nm="humdev" vl="0.933"/>
+    <it nm="gayhap" vl="71"/>
+    <it nm="lngepi" vl="652"/>
+    <it nm="langen" vl="90"/>
+    <it nm="avgwth" vl="9.3"/>
+    <it nm="sumwin" vl="14.4"/>
+    <it nm="crimer" vl="27.15"/>
+    <it nm="worisk" vl="7.35"/>
+    <it nm="gpeace" vl="1.530"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="9.6"/>
+    <it nm="sunshn" vl="1662"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="80.00"/>
+    <it nm="fredrg" vl="98.50"/>
+    <it nm="fresex" vl="90.00"/>
+    <it nm="fretht" vl="0"/>
+    <it nm="democr" vl="9.01"/>
+    <it nm="traffc" vl="96.74"/>
+    <it nm="migacc" vl="7.46"/>
+    <it nm="racism" vl="12"/>
+    <it nm="bdhair" vl="~62"/>
+    <it nm="blonde" vl="66"/>
+    <it nm="intusr" vl="93.20"/>
+    <it nm="ginnov" vl="61.44"/>
+    <it nm="gtacoi" vl="74.99"/>
+    <it nm="inflat" vl="1.10"/>
+    <it nm="unempl" vl="4.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="34.39"/>
+    <it nm="costpr" vl="59.85"/>
+  </cn>
+  <cn nm="newz" ct="3">
+    <it nm="airpol" vl="7.00"/>
+    <it nm="humdev" vl="0.921"/>
+    <it nm="gayhap" vl="69"/>
+    <it nm="lngepi" vl="-" ex="uk"/>
+    <it nm="langen" vl="97.82"/>
+    <it nm="avgwth" vl="12.2"/>
+    <it nm="sumwin" vl="9.8"/>
+    <it nm="crimer" vl="42.19"/>
+    <it nm="worisk" vl="4.67"/>
+    <it nm="gpeace" vl="1.221"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="11.6"/>
+    <it nm="sunshn" vl="2044"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="41.25"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="87.50"/>
+    <it nm="fretht" vl="31"/>
+    <it nm="democr" vl="9.26"/>
+    <it nm="traffc" vl="127.5"/>
+    <it nm="migacc" vl="8.25"/>
+    <it nm="racism" vl="-" ex="uk"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="-" ex="uk+ind"/>
+    <it nm="intusr" vl="90.81"/>
+    <it nm="ginnov" vl="49.55"/>
+    <it nm="gtacoi" vl="69.84"/>
+    <it nm="inflat" vl="1.40"/>
+    <it nm="unempl" vl="4.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="44.54"/>
+    <it nm="costpr" vl="58.23"/>
+  </cn>
+  <!--nicarag-->
+  <cn nm="niger" ct="0">
+    <it nm="airpol" vl="-" ex="alger"/>
+    <it nm="humdev" vl="0.377"/>
+    <it nm="gayhap" vl="-" ex="nigeria"/>
+    <it nm="lngepi" vl="-" ex="alger"/>
+    <it nm="langen" vl="-" ex="alger"/>
+    <it nm="avgwth" vl="27.9"/>
+    <it nm="sumwin" vl="11.1"/>
+    <it nm="crimer" vl="~70.80"/>
+    <it nm="worisk" vl="13.77"/>
+    <it nm="gpeace" vl="2.394"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="9.0"/>
+    <it nm="sunshn" vl="3203.2"/>
+    <it nm="frerel" vl="-" ex="nigeria"/>
+    <it nm="frebio" vl="-" ex="nigeria"/>
+    <it nm="fredrg" vl="-" ex="nigeria"/>
+    <it nm="fresex" vl="-" ex="nigeria"/>
+    <it nm="fretht" vl="24"/>
+    <it nm="democr" vl="4.12"/>
+    <it nm="traffc" vl="-" ex="chad"/>
+    <it nm="migacc" vl="6.64"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~40"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="10.22"/>
+    <it nm="ginnov" vl="18.13"/>
+    <it nm="gtacoi" vl="-" ex="nigeria"/>
+    <it nm="inflat" vl="5.70"/>
+    <it nm="unempl" vl="0.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="1.82"/>
+    <it nm="costpr" vl="-" ex="nigeria"/>
+  </cn>
+  <cn nm="nigeria" ct="0">
+    <it nm="airpol" vl="~21.40"/>
+    <it nm="humdev" vl="0.534"/>
+    <it nm="gayhap" vl="25"/>
+    <it nm="lngepi" vl="537"/>
+    <it nm="langen" vl="53.34"/>
+    <it nm="avgwth" vl="26.7"/>
+    <it nm="sumwin" vl="4.7"/>
+    <it nm="crimer" vl="63.27"/>
+    <it nm="worisk" vl="13.11"/>
+    <it nm="gpeace" vl="2.898"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="17.3"/>
+    <it nm="sunshn" vl="2669.08"/>
+    <it nm="frerel" vl="48.79"/>
+    <it nm="frebio" vl="36.25"/>
+    <it nm="fredrg" vl="21.96"/>
+    <it nm="fresex" vl="52.50"/>
+    <it nm="fretht" vl="547"/>
+    <it nm="democr" vl="4.12"/>
+    <it nm="traffc" vl="311.39"/>
+    <it nm="migacc" vl="7.76"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~10"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="66.44"/>
+    <it nm="ginnov" vl="23.93"/>
+    <it nm="gtacoi" vl="29.26"/>
+    <it nm="inflat" vl="13.71"/>
+    <it nm="unempl" vl="27.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="3.47"/>
+    <it nm="costpr" vl="29.34"/>
+  </cn>
+  <!--nkorea-->
+  <!--nmacedon-->
+  <cn nm="norw" ct="2">
+    <it nm="airpol" vl="5.70"/>
+    <it nm="humdev" vl="0.954"/>
+    <it nm="gayhap" vl="77"/>
+    <it nm="lngepi" vl="624"/>
+    <it nm="langen" vl="90"/>
+    <it nm="avgwth" vl="4.3"/>
+    <it nm="sumwin" vl="17.3"/>
+    <it nm="crimer" vl="34.62"/>
+    <it nm="worisk" vl="2.34"/>
+    <it nm="gpeace" vl="1.536"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.1"/>
+    <it nm="sunshn" vl="1373.33"/>
+    <it nm="frerel" vl="85.00"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="22.50"/>
+    <it nm="fresex" vl="55.00"/>
+    <it nm="fretht" vl="6"/>
+    <it nm="democr" vl="9.87"/>
+    <it nm="traffc" vl="90.83"/>
+    <it nm="migacc" vl="7.73"/>
+    <it nm="racism" vl="18"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="75"/>
+    <it nm="intusr" vl="96.51"/>
+    <it nm="ginnov" vl="51.87"/>
+    <it nm="gtacoi" vl="72.91"/>
+    <it nm="inflat" vl="1.60"/>
+    <it nm="unempl" vl="5.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~38.62"/>
+    <it nm="costpr" vl="72.68"/>
+  </cn>
+  <cn nm="oman" ct="1">
+    <it nm="airpol" vl="44.40"/>
+    <it nm="humdev" vl="0.834"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="398"/>
+    <it nm="langen" vl="-" ex="kazakh"/>
+    <it nm="avgwth" vl="26.4"/>
+    <it nm="sumwin" vl="13.2"/>
+    <it nm="crimer" vl="20.62"/>
+    <it nm="worisk" vl="2.74"/>
+    <it nm="gpeace" vl="1.953"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="3.5"/>
+    <it nm="sunshn" vl="3493.3"/>
+    <it nm="frerel" vl="24.38"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="18.21"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="276"/>
+    <it nm="democr" vl="3.06"/>
+    <it nm="traffc" vl="121.46"/>
+    <it nm="migacc" vl="-" ex="uae"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~58"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="80.19"/>
+    <it nm="ginnov" vl="30.98"/>
+    <it nm="gtacoi" vl="49.63"/>
+    <it nm="inflat" vl="-1.22"/>
+    <it nm="unempl" vl="3.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="25.62"/>
+    <it nm="costpr" vl="34.48"/>
+  </cn>
+  <cn nm="pak" ct="1">
+    <it nm="airpol" vl="59.00"/>
+    <it nm="humdev" vl="0.560"/>
+    <it nm="gayhap" vl="30"/>
+    <it nm="lngepi" vl="478"/>
+    <it nm="langen" vl="7"/>
+    <it nm="avgwth" vl="21.5"/>
+    <it nm="sumwin" vl="20.6"/>
+    <it nm="crimer" vl="44.18"/>
+    <it nm="worisk" vl="7.08"/>
+    <it nm="gpeace" vl="3.072"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="3.1"/>
+    <it nm="sunshn" vl="2992.15"/>
+    <it nm="frerel" vl="15.31"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="39.43"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="1076"/>
+    <it nm="democr" vl="4.25"/>
+    <it nm="traffc" vl="159.85"/>
+    <it nm="migacc" vl="2.47"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~35"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="38.66"/>
+    <it nm="ginnov" vl="25.36"/>
+    <it nm="gtacoi" vl="30.63"/>
+    <it nm="inflat" vl="9.04"/>
+    <it nm="unempl" vl="4.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="11.20"/>
+    <it nm="costpr" vl="13.36"/>
+  </cn>
+  <!--palau-->
+  <!--palestin-->
+  <!--panam-->
+  <!--papuang-->
+  <!--paragu-->
+  <!--peru-->
+  <cn nm="philip" ct="1">
+    <it nm="airpol" vl="12.80"/>
+    <it nm="humdev" vl="0.712"/>
+    <it nm="gayhap" vl="50"/>
+    <it nm="lngepi" vl="562"/>
+    <it nm="langen" vl="63.73"/>
+    <it nm="avgwth" vl="25.1"/>
+    <it nm="sumwin" vl="2.7"/>
+    <it nm="crimer" vl="42.22"/>
+    <it nm="worisk" vl="20.69"/>
+    <it nm="gpeace" vl="2.516"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="3.7"/>
+    <it nm="sunshn" vl="2103.1"/>
+    <it nm="frerel" vl="79.08"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="37.32"/>
+    <it nm="fresex" vl="45.00"/>
+    <it nm="fretht" vl="120"/>
+    <it nm="democr" vl="6.64"/>
+    <it nm="traffc" vl="198.33"/>
+    <it nm="migacc" vl="6.77"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="60.05"/>
+    <it nm="ginnov" vl="36.18"/>
+    <it nm="gtacoi" vl="47.52"/>
+    <it nm="inflat" vl="2.30"/>
+    <it nm="unempl" vl="10.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="9.21"/>
+    <it nm="costpr" vl="26.20"/>
+  </cn>
+  <cn nm="pol" ct="2">
+    <it nm="airpol" vl="16.90"/>
+    <it nm="humdev" vl="0.872"/>
+    <it nm="gayhap" vl="46"/>
+    <it nm="lngepi" vl="596"/>
+    <it nm="langen" vl="37"/>
+    <it nm="avgwth" vl="6.9"/>
+    <it nm="sumwin" vl="19.5"/>
+    <it nm="crimer" vl="33.13"/>
+    <it nm="worisk" vl="2.97"/>
+    <it nm="gpeace" vl="1.654"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.4"/>
+    <it nm="sunshn" vl="1571"/>
+    <it nm="frerel" vl="94.25"/>
+    <it nm="frebio" vl="36.25"/>
+    <it nm="fredrg" vl="54.58"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="91"/>
+    <it nm="democr" vl="6.62"/>
+    <it nm="traffc" vl="114.94"/>
+    <it nm="migacc" vl="3.31"/>
+    <it nm="racism" vl="67"/>
+    <it nm="bdhair" vl="~57"/>
+    <it nm="blonde" vl="46"/>
+    <it nm="intusr" vl="75.99"/>
+    <it nm="ginnov" vl="41.31"/>
+    <it nm="gtacoi" vl="49.48"/>
+    <it nm="inflat" vl="3.00"/>
+    <it nm="unempl" vl="6.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="24.70"/>
+    <it nm="costpr" vl="30.60"/>
+  </cn>
+  <cn nm="port" ct="2">
+    <it nm="airpol" vl="9.10"/>
+    <it nm="humdev" vl="0.850"/>
+    <it nm="gayhap" vl="56"/>
+    <it nm="lngepi" vl="618"/>
+    <it nm="langen" vl="27"/>
+    <it nm="avgwth" vl="15.7"/>
+    <it nm="sumwin" vl="10.8"/>
+    <it nm="crimer" vl="29.83"/>
+    <it nm="worisk" vl="3.44"/>
+    <it nm="gpeace" vl="1.274"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="8.6"/>
+    <it nm="sunshn" vl="2770"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="91.00"/>
+    <it nm="fresex" vl="93.00"/>
+    <it nm="fretht" vl="38"/>
+    <it nm="democr" vl="8.03"/>
+    <it nm="traffc" vl="113.62"/>
+    <it nm="migacc" vl="6.65"/>
+    <it nm="racism" vl="30"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="9"/>
+    <it nm="intusr" vl="73.79"/>
+    <it nm="ginnov" vl="44.65"/>
+    <it nm="gtacoi" vl="57.8"/>
+    <it nm="inflat" vl="-0.10"/>
+    <it nm="unempl" vl="5.60"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="23.31"/>
+    <it nm="costpr" vl="38.27"/>
+  </cn>
+  <cn nm="qtr" ct="1">
+    <it nm="airpol" vl="44.30"/>
+    <it nm="humdev" vl="0.848"/>
+    <it nm="gayhap" vl="40"/>
+    <it nm="lngepi" vl="459"/>
+    <it nm="langen" vl="-" ex="turk"/>
+    <it nm="avgwth" vl="26.8"/>
+    <it nm="sumwin" vl="17.5"/>
+    <it nm="crimer" vl="11.90"/>
+    <it nm="worisk" vl="0.31"/>
+    <it nm="gpeace" vl="1.696"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="5.8"/>
+    <it nm="sunshn" vl="-" ex="uae"/>
+    <it nm="frerel" vl="31.88"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="21.71"/>
+    <it nm="fresex" vl="12.50"/>
+    <it nm="fretht" vl="676"/>
+    <it nm="democr" vl="3.19"/>
+    <it nm="traffc" vl="142.23"/>
+    <it nm="migacc" vl="-" ex="uae"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="95.94"/>
+    <it nm="ginnov" vl="33.86"/>
+    <it nm="gtacoi" vl="57.74"/>
+    <it nm="inflat" vl="-2.97"/>
+    <it nm="unempl" vl="0.10"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="4.80"/>
+    <it nm="costpr" vl="55.80"/>
+  </cn>
+  <cn nm="roman" ct="2">
+    <it nm="airpol" vl="15.80"/>
+    <it nm="humdev" vl="0.816"/>
+    <it nm="gayhap" vl="41"/>
+    <it nm="lngepi" vl="589"/>
+    <it nm="langen" vl="31"/>
+    <it nm="avgwth" vl="8.4"/>
+    <it nm="sumwin" vl="21.1"/>
+    <it nm="crimer" vl="27.82"/>
+    <it nm="worisk" vl="5.65"/>
+    <it nm="gpeace" vl="1.562"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="8.0"/>
+    <it nm="sunshn" vl="2115"/>
+    <it nm="frerel" vl="95.25"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="20.90"/>
+    <it nm="fresex" vl="65.00"/>
+    <it nm="fretht" vl="58"/>
+    <it nm="democr" vl="6.49"/>
+    <it nm="traffc" vl="129.76"/>
+    <it nm="migacc" vl="2.93"/>
+    <it nm="racism" vl="71"/>
+    <it nm="bdhair" vl="~67"/>
+    <it nm="blonde" vl="15"/>
+    <it nm="intusr" vl="63.75"/>
+    <it nm="ginnov" vl="36.76"/>
+    <it nm="gtacoi" vl="42.14"/>
+    <it nm="inflat" vl="2.50"/>
+    <it nm="unempl" vl="5.20"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="22.01"/>
+    <it nm="costpr" vl="25.25"/>
+  </cn>
+  <cn nm="rus" ct="2">
+    <it nm="airpol" vl="9.30"/>
+    <it nm="humdev" vl="0.824"/>
+    <it nm="gayhap" vl="36"/>
+    <it nm="lngepi" vl="512"/>
+    <it nm="langen" vl="5.48"/>
+    <it nm="avgwth" vl="-0.6"/>
+    <it nm="sumwin" vl="34.2"/>
+    <it nm="crimer" vl="40.60"/>
+    <it nm="worisk" vl="3.52"/>
+    <it nm="gpeace" vl="3.093"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="26.5"/>
+    <it nm="sunshn" vl="2039.5"/>
+    <it nm="frerel" vl="57.50"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="67.50"/>
+    <it nm="fresex" vl="35.00"/>
+    <it nm="fretht" vl="318"/>
+    <it nm="democr" vl="3.11"/>
+    <it nm="traffc" vl="184.38"/>
+    <it nm="migacc" vl="2.6"/>
+    <it nm="racism" vl="66"/>
+    <it nm="bdhair" vl="~50"/>
+    <it nm="blonde" vl="47"/>
+    <it nm="intusr" vl="76.01"/>
+    <it nm="ginnov" vl="37.62"/>
+    <it nm="gtacoi" vl="47.07"/>
+    <it nm="inflat" vl="3.70"/>
+    <it nm="unempl" vl="6.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="9.52"/>
+    <it nm="costpr" vl="21.99"/>
+  </cn>
+  <!--rwand-->
+  <!--sankitts-->
+  <!--sanluc-->
+  <!--sanvinc-->
+  <!--samoa-->
+  <!--sanmar-->
+  <!--saotome-->
+  <cn nm="arabia" ct="1">
+    <it nm="airpol" vl="23.30"/>
+    <it nm="humdev" vl="0.857"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="399"/>
+    <it nm="langen" vl="-" ex="iraq"/>
+    <it nm="avgwth" vl="25.2"/>
+    <it nm="sumwin" vl="17.7"/>
+    <it nm="crimer" vl="26.68"/>
+    <it nm="worisk" vl="1.04"/>
+    <it nm="gpeace" vl="2.409"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="3.4"/>
+    <it nm="sunshn" vl="3236.5"/>
+    <it nm="frerel" vl="8.53"/>
+    <it nm="frebio" vl="31.25"/>
+    <it nm="fredrg" vl="4.55"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="1358"/>
+    <it nm="democr" vl="1.93"/>
+    <it nm="traffc" vl="131.67"/>
+    <it nm="migacc" vl="6.39"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~69"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="82.12"/>
+    <it nm="ginnov" vl="32.93"/>
+    <it nm="gtacoi" vl="51.48"/>
+    <it nm="inflat" vl="5.70"/>
+    <it nm="unempl" vl="9.00"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="25.92"/>
+    <it nm="costpr" vl="31.64"/>
+  </cn>
+  <!--senegal-->
+  <cn nm="serb" ct="2">
+    <it nm="airpol" vl="24.30"/>
+    <it nm="humdev" vl="0.799"/>
+    <it nm="gayhap" vl="36"/>
+    <it nm="lngepi" vl="597"/>
+    <it nm="langen" vl="-" ex="croat"/>
+    <it nm="avgwth" vl="10"/>
+    <it nm="sumwin" vl="20.9"/>
+    <it nm="crimer" vl="37.73"/>
+    <it nm="worisk" vl="5.17"/>
+    <it nm="gpeace" vl="1.812"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.9"/>
+    <it nm="sunshn" vl="2055"/>
+    <it nm="frerel" vl="90.50"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="20.16"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="35"/>
+    <it nm="democr" vl="6.41"/>
+    <it nm="traffc" vl="110.26"/>
+    <it nm="migacc" vl="1.8"/>
+    <it nm="racism" vl="57"/>
+    <it nm="bdhair" vl="~68"/>
+    <it nm="blonde" vl="10"/>
+    <it nm="intusr" vl="70.33"/>
+    <it nm="ginnov" vl="35.71"/>
+    <it nm="gtacoi" vl="43.8"/>
+    <it nm="inflat" vl="1.80"/>
+    <it nm="unempl" vl="7.30"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="11.89"/>
+    <it nm="costpr" vl="25.17"/>
+  </cn>
+  <!--seychel-->
+  <!--sierra-->
+  <cn nm="singap" ct="1">
+    <it nm="airpol" vl="11.80"/>
+    <it nm="humdev" vl="0.935"/>
+    <it nm="gayhap" vl="41"/>
+    <it nm="lngepi" vl="611"/>
+    <it nm="langen" vl="83.1"/>
+    <it nm="avgwth" vl="26.5"/>
+    <it nm="sumwin" vl="1.5"/>
+    <it nm="crimer" vl="31.53"/>
+    <it nm="worisk" vl="2.51"/>
+    <it nm="gpeace" vl="1.347"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="7.9"/>
+    <it nm="sunshn" vl="2022.4"/>
+    <it nm="frerel" vl="74.60"/>
+    <it nm="frebio" vl="72.50"/>
+    <it nm="fredrg" vl="12.02"/>
+    <it nm="fresex" vl="77.50"/>
+    <it nm="fretht" vl="42"/>
+    <it nm="democr" vl="6.02"/>
+    <it nm="traffc" vl="147.77"/>
+    <it nm="migacc" vl="5.21"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="84.45"/>
+    <it nm="ginnov" vl="58.37"/>
+    <it nm="gtacoi" vl="78.48"/>
+    <it nm="inflat" vl="0.00"/>
+    <it nm="unempl" vl="3.60"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~11.22"/>
+    <it nm="costpr" vl="75.64"/>
+  </cn>
+  <cn nm="slovak" ct="2">
+    <it nm="airpol" vl="15.30"/>
+    <it nm="humdev" vl="0.857"/>
+    <it nm="gayhap" vl="47"/>
+    <it nm="lngepi" vl="577"/>
+    <it nm="langen" vl="26"/>
+    <it nm="avgwth" vl="6.2"/>
+    <it nm="sumwin" vl="19.5"/>
+    <it nm="crimer" vl="29.81"/>
+    <it nm="worisk" vl="3.20"/>
+    <it nm="gpeace" vl="1.550"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="10.1"/>
+    <it nm="sunshn" vl="2038"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="19.58"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="56"/>
+    <it nm="democr" vl="7.17"/>
+    <it nm="traffc" vl="101.44"/>
+    <it nm="migacc" vl="1.83"/>
+    <it nm="racism" vl="53"/>
+    <it nm="bdhair" vl="~59"/>
+    <it nm="blonde" vl="45"/>
+    <it nm="intusr" vl="81.63"/>
+    <it nm="ginnov" vl="42.05"/>
+    <it nm="gtacoi" vl="52.08"/>
+    <it nm="inflat" vl="1.40"/>
+    <it nm="unempl" vl="7.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="22.97"/>
+    <it nm="costpr" vl="33.96"/>
+  </cn>
+  <cn nm="sloven" ct="2">
+    <it nm="airpol" vl="-" ex="croat"/>
+    <it nm="humdev" vl="0.902"/>
+    <it nm="gayhap" vl="52"/>
+    <it nm="lngepi" vl="-" ex="belg"/>
+    <it nm="langen" vl="59"/>
+    <it nm="avgwth" vl="7.7"/>
+    <it nm="sumwin" vl="18.6"/>
+    <it nm="crimer" vl="20.95"/>
+    <it nm="worisk" vl="3.34"/>
+    <it nm="gpeace" vl="1.355"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.3"/>
+    <it nm="sunshn" vl="1974"/>
+    <it nm="frerel" vl="96.13"/>
+    <it nm="frebio" vl="68.75"/>
+    <it nm="fredrg" vl="56.47"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="11"/>
+    <it nm="democr" vl="7.50"/>
+    <it nm="traffc" vl="103.38"/>
+    <it nm="migacc" vl="4.42"/>
+    <it nm="racism" vl="-" ex="croat"/>
+    <it nm="bdhair" vl="~69"/>
+    <it nm="blonde" vl="27"/>
+    <it nm="intusr" vl="78.89"/>
+    <it nm="ginnov" vl="45.25"/>
+    <it nm="gtacoi" vl="57.42"/>
+    <it nm="inflat" vl="-0.10"/>
+    <it nm="unempl" vl="9.10"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="28.50"/>
+    <it nm="costpr" vl="40.03"/>
+  </cn>
+  <!--solomon-->
+  <cn nm="somali" ct="0">
+    <it nm="airpol" vl="-" ex="ethiop"/>
+    <it nm="humdev" vl="-" ex="ymn"/>
+    <it nm="gayhap" vl="-" ex="djib"/>
+    <it nm="lngepi" vl="-" ex="ethiop"/>
+    <it nm="langen" vl="-" ex="ymn"/>
+    <it nm="avgwth" vl="26.6"/>
+    <it nm="sumwin" vl="2.7"/>
+    <it nm="crimer" vl="56.04"/>
+    <it nm="worisk" vl="-" ex="ymn"/>
+    <it nm="gpeace" vl="3.574"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="8.3"/>
+    <it nm="sunshn" vl="3103"/>
+    <it nm="frerel" vl="16.25"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="11.25"/>
+    <it nm="fresex" vl="12.50"/>
+    <it nm="fretht" vl="720"/>
+    <it nm="democr" vl="-" ex="djib"/>
+    <it nm="traffc" vl="74.02"/>
+    <it nm="migacc" vl="4.99"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~30"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="2.00"/>
+    <it nm="ginnov" vl="-" ex="ymn"/>
+    <it nm="gtacoi" vl="-" ex="ymn"/>
+    <it nm="inflat" vl="3.90"/>
+    <it nm="unempl" vl="-" ex="ymn"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~5.12"/>
+    <it nm="costpr" vl="22.36"/>
+  </cn>
+  <cn nm="southafr" ct="0">
+    <it nm="airpol" vl="18.00"/>
+    <it nm="humdev" vl="0.705"/>
+    <it nm="gayhap" vl="63"/>
+    <it nm="lngepi" vl="607"/>
+    <it nm="langen" vl="31"/>
+    <it nm="avgwth" vl="17"/>
+    <it nm="sumwin" vl="10.5"/>
+    <it nm="crimer" vl="77.29"/>
+    <it nm="worisk" vl="6.40"/>
+    <it nm="gpeace" vl="2.399"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="12.8"/>
+    <it nm="sunshn" vl="3141.32"/>
+    <it nm="frerel" vl="96.25"/>
+    <it nm="frebio" vl="82.50"/>
+    <it nm="fredrg" vl="88.38"/>
+    <it nm="fresex" vl="45.00"/>
+    <it nm="fretht" vl="4.98"/>
+    <it nm="democr" vl="7.24"/>
+    <it nm="traffc" vl="191.72"/>
+    <it nm="migacc" vl="18"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~25"/>
+    <it nm="blonde" vl="-" ex="uk+ind+ind+ind+ind+ind+ind+ind+ind+ind"/>
+    <it nm="intusr" vl="56.17"/>
+    <it nm="ginnov" vl="34.04"/>
+    <it nm="gtacoi" vl="40.85"/>
+    <it nm="inflat" vl="3.00"/>
+    <it nm="unempl" vl="23.30"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="11.13"/>
+    <it nm="costpr" vl="29.38"/>
+  </cn>
+  <cn nm="skorea" ct="1">
+    <it nm="airpol" vl="19.50"/>
+    <it nm="humdev" vl="0.906"/>
+    <it nm="gayhap" vl="43"/>
+    <it nm="lngepi" vl="545"/>
+    <it nm="langen" vl="-" ex="ital"/>
+    <it nm="avgwth" vl="12"/>
+    <it nm="sumwin" vl="25.7"/>
+    <it nm="crimer" vl="27.33"/>
+    <it nm="worisk" vl="3.08"/>
+    <it nm="gpeace" vl="1.867"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="20.2"/>
+    <it nm="sunshn" vl="2196.65"/>
+    <it nm="frerel" vl="93.13"/>
+    <it nm="frebio" vl="41.25"/>
+    <it nm="fredrg" vl="22.50"/>
+    <it nm="fresex" vl="25.00"/>
+    <it nm="fretht" vl="13"/>
+    <it nm="democr" vl="8.00"/>
+    <it nm="traffc" vl="144.69"/>
+    <it nm="migacc" vl="6.49"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~10"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="95.10"/>
+    <it nm="ginnov" vl="56.55"/>
+    <it nm="gtacoi" vl="59.59"/>
+    <it nm="inflat" vl="1.00"/>
+    <it nm="unempl" vl="3.90"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="30.12"/>
+    <it nm="costpr" vl="53.35"/>
+  </cn>
+  <!--ssudan-->
+  <cn nm="spain" ct="2">
+    <it nm="airpol" vl="10.40"/>
+    <it nm="humdev" vl="0.893"/>
+    <it nm="gayhap" vl="68"/>
+    <it nm="lngepi" vl="537"/>
+    <it nm="langen" vl="22"/>
+    <it nm="avgwth" vl="15.5"/>
+    <it nm="sumwin" vl="13.5"/>
+    <it nm="crimer" vl="32.33"/>
+    <it nm="worisk" vl="3.46"/>
+    <it nm="gpeace" vl="1.699"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="6.1"/>
+    <it nm="sunshn" vl="2800.2"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="68.75"/>
+    <it nm="fredrg" vl="76.89"/>
+    <it nm="fresex" vl="97.50"/>
+    <it nm="fretht" vl="47"/>
+    <it nm="democr" vl="8.29"/>
+    <it nm="traffc" vl="107.31"/>
+    <it nm="migacc" vl="7.44"/>
+    <it nm="racism" vl="26"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="12"/>
+    <it nm="intusr" vl="84.60"/>
+    <it nm="ginnov" vl="47.85"/>
+    <it nm="gtacoi" vl="55.7"/>
+    <it nm="inflat" vl="-0.90"/>
+    <it nm="unempl" vl="16.26"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="33.70"/>
+    <it nm="costpr" vl="42.13"/>
+  </cn>
+  <cn nm="srilanka" ct="1">
+    <it nm="airpol" vl="22.40"/>
+    <it nm="humdev" vl="0.780"/>
+    <it nm="gayhap" vl="35"/>
+    <it nm="lngepi" vl="466"/>
+    <it nm="langen" vl="47"/>
+    <it nm="avgwth" vl="25.3"/>
+    <it nm="sumwin" vl="2.5"/>
+    <it nm="crimer" vl="40.23"/>
+    <it nm="worisk" vl="7.50"/>
+    <it nm="gpeace" vl="1.986"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="14.2"/>
+    <it nm="sunshn" vl="-" ex="indones"/>
+    <it nm="frerel" vl="51.38"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="38.43"/>
+    <it nm="fresex" vl="42.50"/>
+    <it nm="fretht" vl="225"/>
+    <it nm="democr" vl="6.27"/>
+    <it nm="traffc" vl="274.01"/>
+    <it nm="migacc" vl="-" ex="ind"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~27"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="34.11"/>
+    <it nm="ginnov" vl="28.45"/>
+    <it nm="gtacoi" vl="36.95"/>
+    <it nm="inflat" vl="4.00"/>
+    <it nm="unempl" vl="5.40"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="3.17"/>
+    <it nm="costpr" vl="20.42"/>
+  </cn>
+  <!--sudan-->
+  <!--surinam-->
+  <cn nm="swed" ct="2">
+    <it nm="airpol" vl="5.00"/>
+    <it nm="humdev" vl="0.937"/>
+    <it nm="gayhap" vl="73"/>
+    <it nm="lngepi" vl="625"/>
+    <it nm="langen" vl="86"/>
+    <it nm="avgwth" vl="4.7"/>
+    <it nm="sumwin" vl="20.2"/>
+    <it nm="crimer" vl="47.43"/>
+    <it nm="worisk" vl="2.20"/>
+    <it nm="gpeace" vl="1.533"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="13.8"/>
+    <it nm="sunshn" vl="1871.5"/>
+    <it nm="frerel" vl="81.25"/>
+    <it nm="frebio" vl="82.50"/>
+    <it nm="fredrg" vl="21.00"/>
+    <it nm="fresex" vl="55.00"/>
+    <it nm="fretht" vl="9"/>
+    <it nm="democr" vl="9.39"/>
+    <it nm="traffc" vl="103.37"/>
+    <it nm="migacc" vl="7.92"/>
+    <it nm="racism" vl="20"/>
+    <it nm="bdhair" vl="~70"/>
+    <it nm="blonde" vl="78"/>
+    <it nm="intusr" vl="96.41"/>
+    <it nm="ginnov" vl="63.65"/>
+    <it nm="gtacoi" vl="75.82"/>
+    <it nm="inflat" vl="0.40"/>
+    <it nm="unempl" vl="8.30"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~26.26"/>
+    <it nm="costpr" vl="54.76"/>
+  </cn>
+  <cn nm="swiss" ct="2">
+    <it nm="airpol" vl="9.00"/>
+    <it nm="humdev" vl="0.946"/>
+    <it nm="gayhap" vl="70"/>
+    <it nm="lngepi" vl="588"/>
+    <it nm="langen" vl="61.28"/>
+    <it nm="avgwth" vl="6"/>
+    <it nm="sumwin" vl="17.4"/>
+    <it nm="crimer" vl="21.58"/>
+    <it nm="worisk" vl="2.05"/>
+    <it nm="gpeace" vl="1.375"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="11.3"/>
+    <it nm="sunshn" vl="1566"/>
+    <it nm="frerel" vl="98.13"/>
+    <it nm="frebio" vl="75.00"/>
+    <it nm="fredrg" vl="71.25"/>
+    <it nm="fresex" vl="90.00"/>
+    <it nm="fretht" vl="47"/>
+    <it nm="democr" vl="9.03"/>
+    <it nm="traffc" vl="93.85"/>
+    <it nm="migacc" vl="7.21"/>
+    <it nm="racism" vl="43"/>
+    <it nm="bdhair" vl="~66"/>
+    <it nm="blonde" vl="46"/>
+    <it nm="intusr" vl="93.71"/>
+    <it nm="ginnov" vl="67.24"/>
+    <it nm="gtacoi" vl="81.26"/>
+    <it nm="inflat" vl="-0.80"/>
+    <it nm="unempl" vl="3.20"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="25.11"/>
+    <it nm="costpr" vl="95.10"/>
+  </cn>
+  <cn nm="syria" ct="1">
+    <it nm="airpol" vl="~32.20"/>
+    <it nm="humdev" vl="0.549"/>
+    <it nm="gayhap" vl="-" ex="iraq"/>
+    <it nm="lngepi" vl="431"/>
+    <it nm="langen" vl="-" ex="turk"/>
+    <it nm="avgwth" vl="17.5"/>
+    <it nm="sumwin" vl="20.8"/>
+    <it nm="crimer" vl="67.42"/>
+    <it nm="worisk" vl="5.92"/>
+    <it nm="gpeace" vl="3.412"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="2.4"/>
+    <it nm="sunshn" vl="-" ex="iraq"/>
+    <it nm="frerel" vl="30.45"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="17.85"/>
+    <it nm="fresex" vl="25.00"/>
+    <it nm="fretht" vl="440"/>
+    <it nm="democr" vl="1.43"/>
+    <it nm="traffc" vl="87.77"/>
+    <it nm="migacc" vl="-" ex="iraq"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~68"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="34.25"/>
+    <it nm="ginnov" vl="-" ex="pak"/>
+    <it nm="gtacoi" vl="-" ex="ymn"/>
+    <it nm="inflat" vl="13.10"/>
+    <it nm="unempl" vl="8.40"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="4.20"/>
+    <it nm="costpr" vl="17.87"/>
+  </cn>
+  <cn nm="tai" ct="1">
+    <it nm="airpol" vl="15.00"/>
+    <it nm="humdev" vl="-" ex="china"/>
+    <it nm="gayhap" vl="54"/>
+    <it nm="lngepi" vl="542"/><!--Hong Kong-->
+    <it nm="langen" vl="-" ex="china"/>
+    <it nm="avgwth" vl="21.6"/>
+    <it nm="sumwin" vl="12.3"/>
+    <it nm="crimer" vl="15.26"/>
+    <it nm="worisk" vl="-" ex="china"/>
+    <it nm="gpeace" vl="1.725"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="~20.1"/>
+    <it nm="sunshn" vl="1886.87"/>
+    <it nm="frerel" vl="-" ex="china"/>
+    <it nm="frebio" vl="-" ex="china"/>
+    <it nm="fredrg" vl="-" ex="china"/>
+    <it nm="fresex" vl="-" ex="china"/>
+    <it nm="fretht" vl="0"/>
+    <it nm="democr" vl="7.73"/>
+    <it nm="traffc" vl="111.43"/>
+    <it nm="migacc" vl="6.8"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="92.78"/>
+    <it nm="ginnov" vl="~55.54"/><!--Hong Kong's-->
+    <it nm="gtacoi" vl="-" ex="skorea"/>
+    <it nm="inflat" vl="-0.58"/>
+    <it nm="unempl" vl="3.78"/>
+    <it nm="conscr" vl="10"/>
+    <it nm="mwcosr" vl="22.88"/>
+    <it nm="costpr" vl="42.64"/>
+  </cn>
+  <cn nm="tajik" ct="1">
+    <it nm="airpol" vl="30.90"/>
+    <it nm="humdev" vl="0.656"/>
+    <it nm="gayhap" vl="-" ex="kyrgyz"/>
+    <it nm="lngepi" vl="381"/>
+    <it nm="langen" vl="-" ex="iraq"/>
+    <it nm="avgwth" vl="11.4"/>
+    <it nm="sumwin" vl="26.3"/>
+    <it nm="crimer" vl="~55.56"/>
+    <it nm="worisk" vl="6.24"/>
+    <it nm="gpeace" vl="2.196"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="3.3"/>
+    <it nm="sunshn" vl="-" ex="uzbek"/>
+    <it nm="frerel" vl="53.00"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="16.94"/>
+    <it nm="fresex" vl="80.00"/>
+    <it nm="fretht" vl="62"/>
+    <it nm="democr" vl="1.93"/>
+    <it nm="traffc" vl="79.70"/>
+    <it nm="migacc" vl="4.39"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~45"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="21.96"/>
+    <it nm="ginnov" vl="26.43"/>
+    <it nm="gtacoi" vl="36.89"/>
+    <it nm="inflat" vl="6.60"/>
+    <it nm="unempl" vl="2.10"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~1.82"/>
+    <it nm="costpr" vl="-" ex="kyrgyz"/>
+  </cn>
+  <!--tanzan-->
+  <cn nm="thai" ct="1">
+    <it nm="airpol" vl="21.40"/>
+    <it nm="humdev" vl="0.765"/>
+    <it nm="gayhap" vl="67"/>
+    <it nm="lngepi" vl="419"/>
+    <it nm="langen" vl="27.16"/>
+    <it nm="avgwth" vl="26.7"/>
+    <it nm="sumwin" vl="5.1"/>
+    <it nm="crimer" vl="40.01"/>
+    <it nm="worisk" vl="6.48"/>
+    <it nm="gpeace" vl="2.278"/>
+    <it nm="dnganm" vl="~45"/>
+    <it nm="suicid" vl="12.9"/>
+    <it nm="sunshn" vl="2175.03"/>
+    <it nm="frerel" vl="50.07"/>
+    <it nm="frebio" vl="35.63"/>
+    <it nm="fredrg" vl="22.29"/>
+    <it nm="fresex" vl="45.00"/>
+    <it nm="fretht" vl="158"/>
+    <it nm="democr" vl="6.32"/>
+    <it nm="traffc" vl="172.00"/>
+    <it nm="migacc" vl="2.69"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="52.89"/>
+    <it nm="ginnov" vl="38.63"/>
+    <it nm="gtacoi" vl="41.3"/>
+    <it nm="inflat" vl="-0.70"/>
+    <it nm="unempl" vl="1.90"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="7.71"/>
+    <it nm="costpr" vl="33.56"/>
+  </cn>
+  <!--timorlest-->
+  <!--togo-->
+  <!--tong-->
+  <!--trinidatob-->
+  <!--tunis-->
+  <cn nm="turk" ct="1">
+    <it nm="airpol" vl="18.70"/>
+    <it nm="humdev" vl="0.806"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="465"/>
+    <it nm="langen" vl="17"/>
+    <it nm="avgwth" vl="12.4"/>
+    <it nm="sumwin" vl="20.6"/>
+    <it nm="crimer" vl="39.50"/>
+    <it nm="worisk" vl="5.06"/>
+    <it nm="gpeace" vl="3.015"/>
+    <it nm="dnganm" vl="~25"/>
+    <it nm="suicid" vl="7.2"/>
+    <it nm="sunshn" vl="2218"/>
+    <it nm="frerel" vl="32.13"/>
+    <it nm="frebio" vl="72.50"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="73.00"/>
+    <it nm="fretht" vl="131"/>
+    <it nm="democr" vl="4.09"/>
+    <it nm="traffc" vl="195.99"/>
+    <it nm="migacc" vl="3.27"/>
+    <it nm="racism" vl="0"/><!--?!?-->
+    <it nm="bdhair" vl="~69"/>
+    <it nm="blonde" vl="4"/>
+    <it nm="intusr" vl="64.68"/>
+    <it nm="ginnov" vl="36.95"/>
+    <it nm="gtacoi" vl="38.37"/>
+    <it nm="inflat" vl="11.75"/>
+    <it nm="unempl" vl="13.40"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="18.99"/>
+    <it nm="costpr" vl="19.35"/>
+  </cn>
+  <cn nm="turkmen" ct="1">
+    <it nm="airpol" vl="17.00"/>
+    <it nm="humdev" vl="0.710"/>
+    <it nm="gayhap" vl="-" ex="uzbek"/>
+    <it nm="lngepi" vl="-" ex="uzbek"/>
+    <it nm="langen" vl="-" ex="kazakh"/>
+    <it nm="avgwth" vl="15.4"/>
+    <it nm="sumwin" vl="27.9"/>
+    <it nm="crimer" vl="~42.13"/>
+    <it nm="worisk" vl="5.69"/>
+    <it nm="gpeace" vl="2.265"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="7.2"/>
+    <it nm="sunshn" vl="-" ex="uzbek"/>
+    <it nm="frerel" vl="5.00"/>
+    <it nm="frebio" vl="67.50"/>
+    <it nm="fredrg" vl="10.47"/>
+    <it nm="fresex" vl="22.50"/>
+    <it nm="fretht" vl="53"/>
+    <it nm="democr" vl="1.72"/>
+    <it nm="traffc" vl="68.02"/>
+    <it nm="migacc" vl="5.36"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~50"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="21.25"/>
+    <it nm="ginnov" vl="-" ex="kazakh"/>
+    <it nm="gtacoi" vl="-" ex="kyrgyz"/>
+    <it nm="inflat" vl="13.40"/>
+    <it nm="unempl" vl="3.90"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~8.79"/>
+    <it nm="costpr" vl="-" ex="uzbek"/>
+  </cn>
+  <!--tuval-->
+  <!--ugand-->
+  <cn nm="ukrain" ct="2">
+    <it nm="airpol" vl="19.20"/>
+    <it nm="humdev" vl="0.750"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="506"/>
+    <it nm="langen" vl="18"/>
+    <it nm="avgwth" vl="8.6"/>
+    <it nm="sumwin" vl="23.8"/>
+    <it nm="crimer" vl="48.84"/>
+    <it nm="worisk" vl="2.66"/>
+    <it nm="gpeace" vl="2.950"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="18.5"/>
+    <it nm="sunshn" vl="1955"/>
+    <it nm="frerel" vl="63.64"/>
+    <it nm="frebio" vl="87.50"/>
+    <it nm="fredrg" vl="37.78"/>
+    <it nm="fresex" vl="42.50"/>
+    <it nm="fretht" vl="15"/>
+    <it nm="democr" vl="5.90"/>
+    <it nm="traffc" vl="145.84"/>
+    <it nm="migacc" vl="3.15"/>
+    <it nm="racism" vl="75"/>
+    <it nm="bdhair" vl="~57"/>
+    <it nm="blonde" vl="45"/>
+    <it nm="intusr" vl="57.12"/>
+    <it nm="ginnov" vl="37.40"/>
+    <it nm="gtacoi" vl="41.47"/>
+    <it nm="inflat" vl="2.30"/>
+    <it nm="unempl" vl="9.90"/>
+    <it nm="conscr" vl="10"/>
+    <it nm="mwcosr" vl="~8.93"/>
+    <it nm="costpr" vl="19.43"/>
+  </cn>
+  <cn nm="uae" ct="1">
+    <it nm="airpol" vl="29.20"/>
+    <it nm="humdev" vl="0.866"/>
+    <it nm="gayhap" vl="37"/>
+    <it nm="lngepi" vl="472"/>
+    <it nm="langen" vl="-" ex="mexic"/>
+    <it nm="avgwth" vl="26.8"/>
+    <it nm="sumwin" vl="16.5"/>
+    <it nm="crimer" vl="15.45"/>
+    <it nm="worisk" vl="3.66"/>
+    <it nm="gpeace" vl="1.847"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="2.7"/>
+    <it nm="sunshn" vl="3508.7"/>
+    <it nm="frerel" vl="22.13"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="13.50"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="1060"/>
+    <it nm="democr" vl="2.76"/>
+    <it nm="traffc" vl="170.89"/>
+    <it nm="migacc" vl="5.79"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="94.82"/>
+    <it nm="ginnov" vl="42.17"/>
+    <it nm="gtacoi" vl="62.63"/>
+    <it nm="inflat" vl="-2.59"/>
+    <it nm="unempl" vl="2.64"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="~22.97"/>
+    <it nm="costpr" vl="51.61"/>
+  </cn>
+  <cn nm="uk" ct="2">
+    <it nm="airpol" vl="8.30"/>
+    <it nm="humdev" vl="0.920"/>
+    <it nm="gayhap" vl="63"/>
+    <it nm="lngepi" vl="680"/>
+    <it nm="langen" vl="97.74"/>
+    <it nm="avgwth" vl="9.3"/>
+    <it nm="sumwin" vl="11.5"/>
+    <it nm="crimer" vl="44.54"/>
+    <it nm="worisk" vl="3.30"/>
+    <it nm="gpeace" vl="1.801"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="7.6"/>
+    <it nm="sunshn" vl="1530"/>
+    <it nm="frerel" vl="94.38"/>
+    <it nm="frebio" vl="50.00"/>
+    <it nm="fredrg" vl="18.75"/>
+    <it nm="fresex" vl="52.00"/>
+    <it nm="fretht" vl="91"/>
+    <it nm="democr" vl="8.52"/>
+    <it nm="traffc" vl="133.37"/>
+    <it nm="migacc" vl="6.61"/>
+    <it nm="racism" vl="47"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="56"/>
+    <it nm="intusr" vl="94.62"/>
+    <it nm="ginnov" vl="61.30"/>
+    <it nm="gtacoi" vl="72.27"/>
+    <it nm="inflat" vl="0.50"/>
+    <it nm="unempl" vl="4.50"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="40.94"/>
+    <it nm="costpr" vl="52.19"/>
+  </cn>
+  <cn nm="usa" ct="4">
+    <it nm="airpol" vl="9.60"/>
+    <it nm="humdev" vl="0.920"/>
+    <it nm="gayhap" vl="61"/>
+    <it nm="lngepi" vl="-" ex="uk"/>
+    <it nm="langen" vl="95.46"/>
+    <it nm="avgwth" vl="11.5"/>
+    <it nm="sumwin" vl="21.5"/>
+    <it nm="crimer" vl="47.70"/>
+    <it nm="worisk" vl="3.76"/>
+    <it nm="gpeace" vl="2.401"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="13.7"/>
+    <it nm="sunshn" vl="2527.7"/><!--improve-->
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="89.38"/>
+    <it nm="fredrg" vl="45.75"/>
+    <it nm="fresex" vl="73.50"/>
+    <it nm="fretht" vl="15"/>
+    <it nm="democr" vl="7.96"/>
+    <it nm="traffc" vl="152.20"/>
+    <it nm="migacc" vl="7.27"/>
+    <it nm="racism" vl="-" ex="uk+spain"/>
+    <it nm="bdhair" vl="~55"/>
+    <it nm="blonde" vl="-" ex="uk+uk+uk+uk+ind"/>
+    <it nm="intusr" vl="75.23"/>
+    <it nm="ginnov" vl="61.73"/>
+    <it nm="gtacoi" vl="79.09"/>
+    <it nm="inflat" vl="1.40"/>
+    <it nm="unempl" vl="7.90"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="22.24"/>
+    <it nm="costpr" vl="57.21"/>
+  </cn>
+  <cn nm="urug" ct="4">
+    <it nm="airpol" vl="-" ex="argen"/>
+    <it nm="humdev" vl="0.808"/>
+    <it nm="gayhap" vl="73"/>
+    <it nm="lngepi" vl="494"/>
+    <it nm="langen" vl="-" ex="ital"/>
+    <it nm="avgwth" vl="16.7"/>
+    <it nm="sumwin" vl="12.1"/>
+    <it nm="crimer" vl="53.02"/>
+    <it nm="worisk" vl="12.52"/>
+    <it nm="gpeace" vl="1.711"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="16.5"/>
+    <it nm="sunshn" vl="2481.4"/>
+    <it nm="frerel" vl="97.13"/>
+    <it nm="frebio" vl="78.75"/>
+    <it nm="fredrg" vl="88.08"/>
+    <it nm="fresex" vl="100.00"/>
+    <it nm="fretht" vl="9"/>
+    <it nm="democr" vl="8.38"/>
+    <it nm="traffc" vl="139.31"/>
+    <it nm="migacc" vl="6.77"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~62"/>
+    <it nm="blonde" vl="-" ex="spain"/>
+    <it nm="intusr" vl="68.28"/>
+    <it nm="ginnov" vl="34.32"/>
+    <it nm="gtacoi" vl="46.76"/>
+    <it nm="inflat" vl="9.92"/>
+    <it nm="unempl" vl="10.80"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="18.82"/>
+    <it nm="costpr" vl="33.16"/>
+  </cn>
+  <cn nm="uzbek" ct="1">
+    <it nm="airpol" vl="29.90"/>
+    <it nm="humdev" vl="0.710"/>
+    <it nm="gayhap" vl="33"/>
+    <it nm="lngepi" vl="430"/>
+    <it nm="langen" vl="-" ex="kazakh"/>
+    <it nm="avgwth" vl="14"/>
+    <it nm="sumwin" vl="27.8"/>
+    <it nm="crimer" vl="28.62"/>
+    <it nm="worisk" vl="7.90"/>
+    <it nm="gpeace" vl="2.166"/>
+    <it nm="dnganm" vl="~5"/>
+    <it nm="suicid" vl="7.4"/>
+    <it nm="sunshn" vl="2823.9"/>
+    <it nm="frerel" vl="44.15"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="16.50"/>
+    <it nm="fresex" vl="22.50"/>
+    <it nm="fretht" vl="82"/>
+    <it nm="democr" vl="2.01"/>
+    <it nm="traffc" vl="110.35"/>
+    <it nm="migacc" vl="4.9"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~50"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="52.31"/>
+    <it nm="ginnov" vl="-" ex="kazakh"/>
+    <it nm="gtacoi" vl="-" ex="kyrgyz"/>
+    <it nm="inflat" vl="11.70"/>
+    <it nm="unempl" vl="5.50"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="14.04"/>
+    <it nm="costpr" vl="18.01"/>
+  </cn>
+  <!--vanua-->
+  <cn nm="venez" ct="4">
+    <it nm="airpol" vl="-" ex="colom"/>
+    <it nm="humdev" vl="0.726"/>
+    <it nm="gayhap" vl="48"/>
+    <it nm="lngepi" vl="471"/>
+    <it nm="langen" vl="-" ex="colom"/>
+    <it nm="avgwth" vl="24.6"/>
+    <it nm="sumwin" vl="1.7"/>
+    <it nm="crimer" vl="84.36"/>
+    <it nm="worisk" vl="7.68"/>
+    <it nm="gpeace" vl="2.671"/>
+    <it nm="dnganm" vl="~35"/>
+    <it nm="suicid" vl="3.8"/>
+    <it nm="sunshn" vl="2895.45"/>
+    <it nm="frerel" vl="81.25"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="90.00"/>
+    <it nm="fretht" vl="40"/>
+    <it nm="democr" vl="2.88"/>
+    <it nm="traffc" vl="155.42"/>
+    <it nm="migacc" vl="6.82"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~33"/>
+    <it nm="blonde" vl="-" ex="spain+ind"/>
+    <it nm="intusr" vl="64.31"/>
+    <it nm="ginnov" vl="-" ex="colom"/>
+    <it nm="gtacoi" vl="27.89"/>
+    <it nm="inflat" vl="1813.10"/>
+    <it nm="unempl" vl="6.40"/>
+    <it nm="conscr" vl="20"/>
+    <it nm="mwcosr" vl="~0.04"/>
+    <it nm="costpr" vl="-" ex="colom"/>
+  </cn>
+  <cn nm="viet" ct="1">
+    <it nm="airpol" vl="28.00"/>
+    <it nm="humdev" vl="0.693"/>
+    <it nm="gayhap" vl="45"/>
+    <it nm="lngepi" vl="473"/>
+    <it nm="langen" vl="-" ex="mexic"/>
+    <it nm="avgwth" vl="24.4"/>
+    <it nm="sumwin" vl="7.2"/>
+    <it nm="crimer" vl="46.52"/>
+    <it nm="worisk" vl="10.31"/>
+    <it nm="gpeace" vl="1.877"/>
+    <it nm="dnganm" vl="~55"/>
+    <it nm="suicid" vl="7.0"/>
+    <it nm="sunshn" vl="2123.5"/>
+    <it nm="frerel" vl="59.38"/>
+    <it nm="frebio" vl="62.50"/>
+    <it nm="fredrg" vl="15.00"/>
+    <it nm="fresex" vl="5.00"/>
+    <it nm="fretht" vl="42"/>
+    <it nm="democr" vl="3.08"/>
+    <it nm="traffc" vl="110.26"/>
+    <it nm="migacc" vl="6.08"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~5"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="70.04"/>
+    <it nm="ginnov" vl="38.84"/>
+    <it nm="gtacoi" vl="35.11"/>
+    <it nm="inflat" vl="2.47"/>
+    <it nm="unempl" vl="2.73"/>
+    <it nm="conscr" vl="100"/>
+    <it nm="mwcosr" vl="4.86"/>
+    <it nm="costpr" vl="26.63"/>
+  </cn>
+  <cn nm="ymn" ct="1">
+    <it nm="airpol" vl="-" ex="ethiop"/>
+    <it nm="humdev" vl="0.463"/>
+    <it nm="gayhap" vl="-" ex="arabia"/>
+    <it nm="lngepi" vl="-" ex="alger"/>
+    <it nm="langen" vl="9"/>
+    <it nm="avgwth" vl="26.9"/>
+    <it nm="sumwin" vl="6.2"/>
+    <it nm="crimer" vl="72.7"/>
+    <it nm="worisk" vl="5.50"/>
+    <it nm="gpeace" vl="3.369"/>
+    <it nm="dnganm" vl="~15"/>
+    <it nm="suicid" vl="9.8"/>
+    <it nm="sunshn" vl="-" ex="djib"/>
+    <it nm="frerel" vl="12.38"/>
+    <it nm="frebio" vl="15.63"/>
+    <it nm="fredrg" vl="17.96"/>
+    <it nm="fresex" vl="0.00"/>
+    <it nm="fretht" vl="827"/>
+    <it nm="democr" vl="1.95"/>
+    <it nm="traffc" vl="72.60"/>
+    <it nm="migacc" vl="3.93"/>
+    <it nm="racism" vl="0"/>
+    <it nm="bdhair" vl="~61"/>
+    <it nm="blonde" vl="~0"/>
+    <it nm="intusr" vl="26.72"/>
+    <it nm="ginnov" vl="14.49"/>
+    <it nm="gtacoi" vl="12.36"/>
+    <it nm="inflat" vl="0.77"/>
+    <it nm="unempl" vl="12.80"/>
+    <it nm="conscr" vl="0"/>
+    <it nm="mwcosr" vl="~3.56"/>
+    <it nm="costpr" vl="29.84"/>
+  </cn>
+  <!--zamb-->
+  <!--zimbab-->
+
+  <!-- TO BE UPDATED: crimer, inflat, unempl-->
+</cs>

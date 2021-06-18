@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* Fonts: EN */
+
+
+@font-face {
+	font-family: Berlin;
+	src: url(fonts/berlin_sans_fb.ttf);
+}
+
+@font-face {
+	font-family: "DIN Alternate";
+	src: url(fonts/din_alternate_bold.otf);
+}
+
+
+html, body {
+	overflow-x: hidden !important;
+}

@@ -1,0 +1,262 @@
+@charset "utf-8";
+/* Criteria */
+
+
+#criteria {
+	width: 100%;
+	padding-top: 6px;
+}
+.cCri {
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+	border-left: 1px #F5F5F5 solid;
+    border-right: 1px #F5F5F5 solid;
+}
+.cCriMain {
+	width: 100%;
+	background: rgba(0, 0, 0, 0);
+	cursor: pointer;
+}
+.cCriMain:hover {
+	background: rgba(0, 174, 239, 0.0862745);
+}
+.cCriText {
+	width: calc(100% - 55px);
+}
+.cCriMain p {
+	margin: 0px;
+	color: #00AEEF;
+	font-size: 18px;
+	font-family: "DIN Alternate", sans-serif;
+	padding-left: 20px;
+	padding-top: 17px;
+	padding-bottom: 17px;
+}
+.cCriMain p.rtl {
+    padding-left: 0px;
+	padding-right: 20px;
+	font-size: 20px;
+	font-family: Aban, W_aban, sans-serif;
+	text-align: right;
+}
+.cSwitch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 18px;
+	bottom: 40px;
+	right: 12px;
+	padding: 0px;
+	float: right;
+}
+.cSwitch.rtl {
+    float: left;
+    right: auto;
+    left: 12px;
+}
+.cCheckbox {
+	opacity: 0;
+    width: 0;
+    height: 0;
+}
+.cCheckSpan {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ADADAD;
+    transition: .4s;
+    border-radius: 34px;
+}
+.cCheckSpan:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: -2px;
+    bottom: -4px;
+    background-color: #FFF;
+    transition: .4s;
+    border-radius: 50%;
+    box-shadow: 0px 1px 3px #666;
+}
+.cCheckbox:checked + .cCheckSpan {
+    background-color: #75D3F5;
+}
+/*.cCheckbox:focus + .cCheckSpan {}*/
+.cCheckbox:checked + .cCheckSpan:before {
+    transform: translateX(16px);
+    background-color: #00AEEF;
+}
+.cOverflow {
+    width: 100%;
+	background: rgba(0, 0, 0, 0);
+	transition: all 0.148s;
+	padding-top: 15px;
+	padding-bottom: 11px;
+}
+.cCriOption {
+    width: 100%;
+    height: 47px;
+}
+.cCriOption:nth-child(4) {
+    height: 55px;
+}
+.cCriOption > :nth-child(1) {
+    width: 56px;
+    float: left;
+}
+.cCriOption.rtl > :nth-child(1) {
+    float: right;
+}
+.cCriOption:nth-child(4) > :nth-child(1) {
+    width: 100%;
+    float: none;
+}
+.cCriOption > :nth-child(2) {
+    width: calc(100% - 56px);
+    float: right;
+}
+.cCriOption.rtl > :nth-child(2) {
+    float: left;
+}
+.cCriOption:nth-child(1) > :nth-child(2) {
+    width: calc(100% - (56px + 40px));
+    float: right;
+}
+.cCriOption.rtl:nth-child(1) > :nth-child(2) {
+    float: left;
+}
+.cCriOption:nth-child(2) > :nth-child(3) {
+    width: calc(100% - (56px + 120px));
+    float: right;
+}
+.cCriOption.rtl:nth-child(2) > :nth-child(3) {
+    float: left;
+}
+.cCriOption label {
+    width: 30px;
+    height: 30px;
+    margin: 0px;
+	color: #00AEEF;
+	font-size: 16px;
+	font-family: "DIN Alternate", sans-serif;
+	cursor: pointer;
+}
+.cCriOption.rtl label {
+    font-size: 17px;
+	font-family: Aban, W_aban, sans-serif;
+	text-align: right;
+}
+.cCriOption input[type="number"] {
+    width: 100px;
+    float: right;
+    background-color: #00AEEF;
+    border-radius: 10px;
+    padding: 8px 12px 8px 12px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #FFF;
+	font-size: 16px;
+	font-family: "DIN Alternate", sans-serif;
+}
+.cImpPercent {
+    color: #00AEEF;
+    font-size: 14px;
+    font-family: "DIN Alternate", sans-serif;
+    float: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.cImpPercent.rtl {
+    font-size: 16px;
+    font-family: Aban, W_aban, sans-serif;
+}
+.cImportance {
+    width: calc(100% - 40px) !important;
+    height: 3px;
+    cursor: pointer;
+    float: none !important;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #00AEEF;
+    outline: none;
+    opacity: 0.78;
+    transition: opacity .2s;
+    border-radius: 5px;  
+}
+.cImportance:hover {
+  opacity: 1;
+}
+.cImportance::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 22px;
+    height: 22px;
+    background: #00AEEF;
+    cursor: pointer;
+    border-radius: 50%; 
+}
+.cImportance::-moz-range-thumb {
+    width: 22px;
+    height: 22px;
+    background: #00AEEF;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.cRadioBox {
+	width: 30px;
+	height: 30px;
+	border: 3px #00AEEF solid;
+	border-radius: 50%;
+	padding: 0px;
+	cursor: pointer;
+	user-select: none;
+	position: relative;
+	opacity: 0.78;
+}
+.cRadioBox:hover {
+    opacity: 1;
+}
+.cRadioChecked {
+	position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+.cRadioSpan {
+    width: 18px;
+	height: 18px;
+	background-color: #00AEEF;
+	margin: 3px;
+	border-radius: 9px;
+	opacity: 0;
+	transition: opacity 0.222s;
+	cursor: pointer;
+	position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.cRadioChecked:checked ~ .cRadioSpan {
+    opacity: 1;
+}
+.cShadowTop {
+	width: 100%;
+	height: 1px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.111));
+}
+.cShadowBottom {
+	width: 100%;
+	height: 4px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.111), rgba(0, 0, 0, 0));
+}
+
+
+@media only screen and (max-width: 600px) {
+    .cCri {
+        border-left: none;
+        border-right: none;
+    }
+}

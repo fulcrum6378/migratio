@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ca [
+    <!ELEMENT ca (cr*)>
+    <!ELEMENT cr EMPTY>
+    <!ATTLIST cr id CDATA #REQUIRED>
+    <!ATTLIST cr nm CDATA #REQUIRED>
+    <!ATTLIST cr ty CDATA #REQUIRED><!--s: score, %: percent, c: celcius, n: number, h: hour-->
+    <!ATTLIST cr gd CDATA #REQUIRED>
+    <!ATTLIST cr md CDATA #REQUIRED>
+    <!ATTLIST cr rf CDATA #REQUIRED>
+    <!ATTLIST cr ce CDATA #IMPLIED>
+    ]>
+
+<ca>
+  <cr
+      id="airpol"
+      nm='["Air Quality Index", "آلودگی هوا"]'
+      ty="s" gd="-" md="0"
+      rf="https://www.iqair.com/world-most-polluted-countries"/>
+  <cr
+      id="humdev"
+      nm='["Human Development Index", "پیشرفت انسانی"]'
+      ty="s" gd="+" md="0.950"
+      rf="https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index"/>
+  <cr
+      id="gayhap"
+      nm='["Gay Happiness Index", "رفاه همجنسگرایان"]'
+      ty="%" gd="+" md="100"
+      rf="https://www.planetromeo.com/en/care/gay-happiness-index/"
+      ce="1"/>
+  <cr
+      id="lngepi"
+      nm='["EF English Proficiency Index", "حرفه در زبان انگلیسی"]'
+      ty="s" gd="+" md="75"
+      rf="https://en.wikipedia.org/wiki/EF_English_Proficiency_Index"/>
+  <cr
+      id="langen"
+      nm='["Total English Speakers", "تعداد گویشوران زبان انگلیسی"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population"/>
+  <cr
+      id="avgwth"
+      nm='["Average Annual Weather", "میانگین دمای سالیانه"]'
+      ty="c" gd="" md="21"
+      rf="https://www.weatherbase.com/weather/countryall.php3"/>
+  <cr
+      id="sumwin"
+      nm='["Seasonal Temperature Difference", "اختلاف دمای فصلی"]'
+      ty="c" gd="-" md="0"
+      rf="https://www.weatherbase.com/weather/countryall.php3"/>
+  <cr
+      id="crimer"
+      nm='["Crime Rate", "آمار جنایت"]'
+      ty="s" gd="-" md="0"
+      rf="https://www.numbeo.com/crime/rankings_by_country.jsp"/>
+  <cr
+      id="worisk"
+      nm='["World Risk Index", "بلایای طبیعی"]'
+      ty="s" gd="-" md="0"
+      rf="https://reliefweb.int/sites/reliefweb.int/files/resources/WorldRiskReport-2019_Online_english.pdf"/>
+  <cr
+      id="gpeace"
+      nm='["Global Peace Index", "شاخص صلح"]'
+      ty="s" gd="-" md="0"
+      rf="https://en.wikipedia.org/wiki/Global_Peace_Index"/>
+  <cr
+      id="dnganm"
+      nm='["Number of Venomous Species", "تعداد گونه های حیوانات سمی"]'
+      ty="n" gd="-" md="0"
+      rf="https://brilliantmaps.com/venomous-animals/"/>
+  <cr
+      id="suicid"
+      nm='["Suicide Rate", "آمار خودکشی"]'
+      ty="s" gd="-" md="0"
+      rf="https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate"/>
+  <cr
+      id="sunshn"
+      nm='["Sunshine Duration", "مدت تابش آفتاب"]'
+      ty="h" gd="" md="2400"
+      rf="https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration"/>
+  <cr
+      id="frerel"
+      nm='["Religious Freedom", "آزادی ادیان"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/World_Index_of_Moral_Freedom"/>
+  <cr
+      id="frebio"
+      nm='["Bioethical Freedom", "آزادی اخلاق-زیستی (بیواتیک)"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/World_Index_of_Moral_Freedom"/>
+  <cr
+      id="fredrg"
+      nm='["Drugs Freedom", "آزادی مواد مخدر"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/World_Index_of_Moral_Freedom"/>
+  <cr
+      id="fresex"
+      nm='["Sexual Freedom", "آزادی جنسی"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/World_Index_of_Moral_Freedom"/>
+  <cr
+      id="fretht"
+      nm='["Freedom of Thought", "آزادی اندیشه"]'
+      ty="s" gd="-" md="0"
+      rf="https://fot.humanists.international/ranking-index-2019/"/>
+  <cr
+      id="democr"
+      nm='["Democracy Index", "شاخص دموکراسی"]'
+      ty="s" gd="+" md="10"
+      rf="https://en.wikipedia.org/wiki/Democracy_Index"/>
+  <cr
+      id="traffc"
+      nm='["Traffic Index", "شاخص ترافیک"]'
+      ty="%" gd="-" md="50"
+      rf="https://www.numbeo.com/traffic/rankings_by_country.jsp"/>
+  <cr
+      id="migacc"
+      nm='["Migrant Acceptance Index", "شاخص مهاجر پذیری"]'
+      ty="s" md="7" gd="+"
+      rf="https://news.gallup.com/poll/216377/new-index-shows-least-accepting-countries-migrants.aspx"/>
+  <cr
+      id="racism"
+      nm='["Racism Index", "شاخص نژادپرستی"]'
+      ty="%" gd="-" md="0"
+      rf="https://www.pewforum.org/2018/10/29/eastern-and-western-europeans-differ-on-importance-of-religion-views-of-minorities-and-key-social-issues/"/>
+  <cr
+      id="bdhair"
+      nm='["Percentage of Body Hair", "درصد موی بدن"]'
+      ty="%" gd="-" md="0"
+      rf="https://www.reddit.com/r/MapPorn/comments/1oy6i5/percentage_of_the_population_with_androgenic_body/"
+      ce="1"/>
+  <cr
+      id="blonde"
+      nm='["Percentage of Blonde People", "درصد افراد با موی بور"]'
+      ty="%" gd="+" md="100"
+      rf="http://jorian.org/people-and-society/what-is-the-percentage-of-blond-haired-people-in-the-world"
+      ce="1"/>
+  <cr
+      id="intusr"
+      nm='["Percentage of Internet Users", "درصد کاربران اینترنت"]'
+      ty="%" gd="+" md="100"
+      rf="https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users"/>
+  <cr
+      id="ginnov"
+      nm='["Global Innovation Index", "شاخص جهانی نوآوری"]'
+      ty="s" gd="+" md="70"
+      rf="https://www.wipo.int/global_innovation_index/en/"/>
+  <cr
+      id="gtacoi"
+      nm='["Global Talent Competitiveness Index", "شاخص جهانی رقابت پذیری استعدادها"]'
+      ty="%" gd="+" md="100"
+      rf="https://gtcistudy.com/the-gtci-index/#gtci-graph-view"/>
+  <cr
+      id="inflat"
+      nm='["Inflation Rate", "تورم"]'
+      ty="%" gd="" md="2.25"
+      rf="https://tradingeconomics.com/"/>
+  <cr
+      id="unempl"
+      nm='["Unemployment Rate", "آمار بیکاری"]'
+      ty="%" gd="" md="5"
+      rf="https://tradingeconomics.com/"/>
+  <cr
+      id="conscr"
+      nm='["Conscription Status", "وضعیت سربازی اجباری"]'
+      ty="%" gd="-" md="0"
+      rf="https://en.wikipedia.org/wiki/Conscription"/>
+  <cr
+      id="mwcosr"
+      nm='["Minimum Wage to Cost of Living Ratio", "نسبت حداقل حقوق به هزینه زندگی"]'
+      ty="s" gd="+" md="60"
+      rf="https://en.wikipedia.org/wiki/List_of_minimum_wages_by_country"/>
+  <cr
+      id="costpr"
+      nm='["Cost of Living", "هزینه زندگی"]'
+      ty="s" gd="-" md="10"
+      rf="https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?displayColumn=2"/>
+</ca>

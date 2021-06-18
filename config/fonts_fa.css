@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* Fonts: FA */
+
+
+@font-face {
+	font-family: Aban;
+	src: url(fonts/w_aban.ttf);
+}
+
+@font-face {
+	font-family: Sari;
+	src: url(fonts/w_sari.ttf);
+}
+
+
+html, body {
+	overflow-x: hidden !important;
+}
