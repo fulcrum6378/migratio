@@ -13,6 +13,7 @@ $VER = "?v=1.0.1";
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 		<meta name="theme-color" content="#00AEEF">
+		<link rel="icon" type="image/png" href="https://mahdiparastesh.ir/welcome/img/migratio_round.png">
 
 		<link rel="profile" href="https://gmpg.org/xfn/11">
 
