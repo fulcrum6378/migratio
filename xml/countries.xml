@@ -39,8 +39,8 @@
     <it nm="intusr" vl="11.45"/>
     <it nm="ginnov" vl="-" ex="pak"/>
     <it nm="gtacoi" vl="-" ex="pak"/>
-    <it nm="inflat" vl="5.90"/>
-    <it nm="unempl" vl="11.10"/>
+    <it nm="inflat" vl="1.56"/>
+    <it nm="unempl" vl="11.20"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="5.56"/>
     <it nm="costpr" vl="15.59"/>
@@ -73,8 +73,8 @@
     <it nm="intusr" vl="71.85"/>
     <it nm="ginnov" vl="30.34"/>
     <it nm="gtacoi" vl="38.94"/>
-    <it nm="inflat" vl="1.50"/>
-    <it nm="unempl" vl="12.50"/>
+    <it nm="inflat" vl="6.20"/>
+    <it nm="unempl" vl="11.90"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="8.85"/>
     <it nm="costpr" vl="25.42"/>
@@ -108,7 +108,7 @@
     <it nm="intusr" vl="47.69"/>
     <it nm="ginnov" vl="23.98"/>
     <it nm="gtacoi" vl="30.75"/>
-    <it nm="inflat" vl="1.20"/>
+    <it nm="inflat" vl="9.60"/>
     <it nm="unempl" vl="11.40"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="10.49"/>
@@ -145,8 +145,8 @@
     <it nm="intusr" vl="75.81"/>
     <it nm="ginnov" vl="31.95"/>
     <it nm="gtacoi" vl="45.33"/>
-    <it nm="inflat" vl="36.60"/>
-    <it nm="unempl" vl="13.10"/>
+    <it nm="inflat" vl="58.00"/>
+    <it nm="unempl" vl="7.00"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="24.86"/>
     <it nm="costpr" vl="23.83"/>
@@ -179,8 +179,8 @@
     <it nm="intusr" vl="69.72"/>
     <it nm="ginnov" vl="33.98"/>
     <it nm="gtacoi" vl="43.52"/>
-    <it nm="inflat" vl="1.40"/>
-    <it nm="unempl" vl="17.50"/>
+    <it nm="inflat" vl="8.40"/>
+    <it nm="unempl" vl="14.50"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="6.25"/>
     <it nm="costpr" vl="21.50"/>
@@ -213,8 +213,8 @@
     <it nm="intusr" vl="86.54"/>
     <it nm="ginnov" vl="50.34"/>
     <it nm="gtacoi" vl="72.53"/>
-    <it nm="inflat" vl="0.70"/>
-    <it nm="unempl" vl="6.90"/>
+    <it nm="inflat" vl="5.10"/>
+    <it nm="unempl" vl="3.90"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="45.34"/>
     <it nm="costpr" vl="62.28"/>
@@ -247,8 +247,8 @@
     <it nm="intusr" vl="87.94"/>
     <it nm="ginnov" vl="50.94"/>
     <it nm="gtacoi" vl="68.87"/>
-    <it nm="inflat" vl="1.50"/>
-    <it nm="unempl" vl="8.40"/>
+    <it nm="inflat" vl="7.20"/>
+    <it nm="unempl" vl="6.10"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~25.97"/>
     <it nm="costpr" vl="53.00"/>
@@ -281,8 +281,8 @@
     <it nm="intusr" vl="79.00"/>
     <it nm="ginnov" vl="30.21"/>
     <it nm="gtacoi" vl="48.57"/>
-    <it nm="inflat" vl="2.90"/>
-    <it nm="unempl" vl="4.80"/>
+    <it nm="inflat" vl="12.20"/>
+    <it nm="unempl" vl="6.00"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="7.15"/>
     <it nm="costpr" vl="20.45"/>
@@ -315,8 +315,8 @@
     <it nm="intusr" vl="85.00"/>
     <it nm="ginnov" vl="-" ex="dominicrep"/>
     <it nm="gtacoi" vl="-" ex="dominicrep"/>
-    <it nm="inflat" vl="1.43"/>
-    <it nm="unempl" vl="9.50"/>
+    <it nm="inflat" vl="3.80"/>
+    <it nm="unempl" vl="25.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="14.90"/>
     <it nm="costpr" vl="61.33"/>
@@ -349,8 +349,8 @@
     <it nm="intusr" vl="95.88"/>
     <it nm="ginnov" vl="31.10"/>
     <it nm="gtacoi" vl="50.35"/>
-    <it nm="inflat" vl="-3.60"/>
-    <it nm="unempl" vl="3.90"/>
+    <it nm="inflat" vl="3.90"/>
+    <it nm="unempl" vl="4.90"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~18.02"/>
     <it nm="costpr" vl="44.24"/>
@@ -385,7 +385,7 @@
     <it nm="intusr" vl="74.44"/>
     <it nm="ginnov" vl="32.07"/>
     <it nm="gtacoi" vl="-" ex="ukrain"/>
-    <it nm="inflat" vl="6.10"/>
+    <it nm="inflat" vl="16.80"/>
     <it nm="unempl" vl="0.20"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="8.09"/>
@@ -419,8 +419,8 @@
     <it nm="intusr" vl="87.68"/>
     <it nm="ginnov" vl="50.18"/>
     <it nm="gtacoi" vl="68.87"/>
-    <it nm="inflat" vl="0.74"/>
-    <it nm="unempl" vl="5.10"/>
+    <it nm="inflat" vl="8.31"/>
+    <it nm="unempl" vl="5.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="38.02"/>
     <it nm="costpr" vl="53.83"/>
@@ -457,8 +457,8 @@
     <it nm="intusr" vl="94.32"/>
     <it nm="ginnov" vl="31.41"/>
     <it nm="gtacoi" vl="32.77"/>
-    <it nm="inflat" vl="-1.50"/>
-    <it nm="unempl" vl="34.67"/>
+    <it nm="inflat" vl="10.20"/>
+    <it nm="unempl" vl="30.92"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="10.70"/>
     <it nm="costpr" vl="23.54"/>
@@ -492,8 +492,8 @@
     <it nm="intusr" vl="71.86"/>
     <it nm="ginnov" vl="33.82"/>
     <it nm="gtacoi" vl="38.14"/>
-    <it nm="inflat" vl="3.14"/>
-    <it nm="unempl" vl="14.40"/>
+    <it nm="inflat" vl="12.13"/>
+    <it nm="unempl" vl="11.10"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="13.82"/>
     <it nm="costpr" vl="20.50"/>
@@ -527,8 +527,8 @@
     <it nm="intusr" vl="63.41"/>
     <it nm="ginnov" vl="40.35"/>
     <it nm="gtacoi" vl="45.76"/>
-    <it nm="inflat" vl="0.90"/>
-    <it nm="unempl" vl="7.20"/>
+    <it nm="inflat" vl="14.40"/>
+    <it nm="unempl" vl="4.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="15.09"/>
     <it nm="costpr" vl="26.09"/>
@@ -567,8 +567,8 @@
     <it nm="intusr" vl="92.70"/>
     <it nm="ginnov" vl="53.88"/>
     <it nm="gtacoi" vl="71.26"/>
-    <it nm="inflat" vl="0.50"/>
-    <it nm="unempl" vl="9.00"/>
+    <it nm="inflat" vl="6.80"/>
+    <it nm="unempl" vl="5.20"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="38.02"/>
     <it nm="costpr" vl="52.12"/>
@@ -602,8 +602,8 @@
     <it nm="intusr" vl="6.50"/>
     <it nm="ginnov" vl="-" ex="niger"/>
     <it nm="gtacoi" vl="-" ex="nigeria"/>
-    <it nm="inflat" vl="3.00"/>
-    <it nm="unempl" vl="2.30"/>
+    <it nm="inflat" vl="3.50"/>
+    <it nm="unempl" vl="1.90"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~3.61"/>
     <it nm="costpr" vl="-" ex="nigeria"/>
@@ -636,8 +636,8 @@
     <it nm="intusr" vl="82.33"/>
     <it nm="ginnov" vl="36.64"/>
     <it nm="gtacoi" vl="53.96"/>
-    <it nm="inflat" vl="3.10"/>
-    <it nm="unempl" vl="12.30"/>
+    <it nm="inflat" vl="10.50"/>
+    <it nm="unempl" vl="7.80"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="15.55"/>
     <it nm="costpr" vl="32.76"/>
@@ -670,8 +670,8 @@
     <it nm="intusr" vl="63.33"/>
     <it nm="ginnov" vl="54.82"/>
     <it nm="gtacoi" vl="49.64"/>
-    <it nm="inflat" vl="1.70"/>
-    <it nm="unempl" vl="5.40"/>
+    <it nm="inflat" vl="2.10"/>
+    <it nm="unempl" vl="6.10"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="5.89"/>
     <it nm="costpr" vl="30.06"/>
@@ -704,8 +704,8 @@
     <it nm="intusr" vl="62.26"/>
     <it nm="ginnov" vl="33.00"/>
     <it nm="gtacoi" vl="39.85"/>
-    <it nm="inflat" vl="1.97"/>
-    <it nm="unempl" vl="15.80"/>
+    <it nm="inflat" vl="9.23"/>
+    <it nm="unempl" vl="12.10"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="18.72"/>
     <it nm="costpr" vl="20.94"/>
@@ -741,8 +741,8 @@
     <it nm="intusr" vl="67.10"/>
     <it nm="ginnov" vl="37.82"/>
     <it nm="gtacoi" vl="43.53"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="8.80"/>
+    <it nm="inflat" vl="9.40"/>
+    <it nm="unempl" vl="7.50"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="16.00"/>
     <it nm="costpr" vl="36.57"/>
@@ -775,8 +775,8 @@
     <it nm="intusr" vl="49.10"/>
     <it nm="ginnov" vl="-" ex="dominicrep"/>
     <it nm="gtacoi" vl="-" ex="venez"/>
-    <it nm="inflat" vl="5.70"/>
-    <it nm="unempl" vl="1.30"/>
+    <it nm="inflat" vl="23.30"/>
+    <it nm="unempl" vl="3.87"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="0.61"/>
     <it nm="costpr" vl="36.12"/>
@@ -809,8 +809,8 @@
     <it nm="intusr" vl="80.74"/>
     <it nm="ginnov" vl="48.34"/>
     <it nm="gtacoi" vl="57.47"/>
-    <it nm="inflat" vl="-0.90"/>
-    <it nm="unempl" vl="8.00"/>
+    <it nm="inflat" vl="8.80"/>
+    <it nm="unempl" vl="5.90"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~24.70"/>
     <it nm="costpr" vl="44.29"/>
@@ -843,8 +843,8 @@
     <it nm="intusr" vl="78.72"/>
     <it nm="ginnov" vl="49.43"/>
     <it nm="gtacoi" vl="60.91"/>
-    <it nm="inflat" vl="3.20"/>
-    <it nm="unempl" vl="3.80"/>
+    <it nm="inflat" vl="14.20"/>
+    <it nm="unempl" vl="3.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="18.50"/>
     <it nm="costpr" vl="35.15"/>
@@ -878,8 +878,8 @@
     <it nm="intusr" vl="97.10"/>
     <it nm="ginnov" vl="58.44"/>
     <it nm="gtacoi" vl="75.18"/>
-    <it nm="inflat" vl="0.60"/>
-    <it nm="unempl" vl="4.80"/>
+    <it nm="inflat" vl="6.70"/>
+    <it nm="unempl" vl="2.50"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~43.66"/>
     <it nm="costpr" vl="65.16"/>
@@ -912,8 +912,8 @@
     <it nm="intusr" vl="55.68"/>
     <it nm="ginnov" vl="-" ex="ymn"/>
     <it nm="gtacoi" vl="-" ex="ethiop"/>
-    <it nm="inflat" vl="1.50"/>
-    <it nm="unempl" vl="10.30"/>
+    <it nm="inflat" vl="3.61"/>
+    <it nm="unempl" vl="28.40"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~8.89"/>
     <it nm="costpr" vl="-" ex="somali"/>
@@ -947,8 +947,8 @@
     <it nm="intusr" vl="64.99"/>
     <it nm="ginnov" vl="28.56"/>
     <it nm="gtacoi" vl="37.29"/>
-    <it nm="inflat" vl="5.03"/>
-    <it nm="unempl" vl="5.70"/>
+    <it nm="inflat" vl="9.64"/>
+    <it nm="unempl" vl="7.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="2.77"/>
     <it nm="costpr" vl="26.38"/>
@@ -982,8 +982,8 @@
     <it nm="intusr" vl="44.95"/>
     <it nm="ginnov" vl="27.47"/>
     <it nm="gtacoi" vl="34.79"/>
-    <it nm="inflat" vl="3.70"/>
-    <it nm="unempl" vl="9.60"/>
+    <it nm="inflat" vl="13.10"/>
+    <it nm="unempl" vl="7.40"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~5.71"/>
     <it nm="costpr" vl="18.57"/>
@@ -1019,8 +1019,8 @@
     <it nm="intusr" vl="88.10"/>
     <it nm="ginnov" vl="49.97"/>
     <it nm="gtacoi" vl="61.97"/>
-    <it nm="inflat" vl="-1.10"/>
-    <it nm="unempl" vl="7.10"/>
+    <it nm="inflat" vl="18.80"/>
+    <it nm="unempl" vl="5.50"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="19.23"/>
     <it nm="costpr" vl="37.25"/>
@@ -1054,7 +1054,7 @@
     <it nm="intusr" vl="18.62"/>
     <it nm="ginnov" vl="24.16"/>
     <it nm="gtacoi" vl="25.08"/>
-    <it nm="inflat" vl="18.70"/>
+    <it nm="inflat" vl="36.60"/>
     <it nm="unempl" vl="19.10"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~0.59"/>
@@ -1089,8 +1089,8 @@
     <it nm="intusr" vl="87.47"/>
     <it nm="ginnov" vl="59.83"/>
     <it nm="gtacoi" vl="74.47"/>
-    <it nm="inflat" vl="0.20"/>
-    <it nm="unempl" vl="7.60"/>
+    <it nm="inflat" vl="5.70"/>
+    <it nm="unempl" vl="7.00"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~28.19"/>
     <it nm="costpr" vl="53.85"/>
@@ -1123,8 +1123,8 @@
     <it nm="intusr" vl="80.50"/>
     <it nm="ginnov" vl="54.25"/>
     <it nm="gtacoi" vl="64.83"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="7.10"/>
+    <it nm="inflat" vl="4.80"/>
+    <it nm="unempl" vl="7.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="34.16"/>
     <it nm="costpr" vl="55.38"/>
@@ -1159,8 +1159,8 @@
     <it nm="intusr" vl="60.49"/>
     <it nm="ginnov" vl="36.98"/>
     <it nm="gtacoi" vl="41.11"/>
-    <it nm="inflat" vl="3.80"/>
-    <it nm="unempl" vl="12.70"/>
+    <it nm="inflat" vl="12.80"/>
+    <it nm="unempl" vl="20.60"/>
     <it nm="conscr" vl="10"/>
     <it nm="mwcosr" vl="0.49"/>
     <it nm="costpr" vl="19.15"/>
@@ -1193,8 +1193,8 @@
     <it nm="intusr" vl="86"/>
     <it nm="ginnov" vl="58.19"/>
     <it nm="gtacoi" vl="72.34"/>
-    <it nm="inflat" vl="-0.20"/>
-    <it nm="unempl" vl="4.50"/>
+    <it nm="inflat" vl="7.40"/>
+    <it nm="unempl" vl="5.00"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="39.91"/>
     <it nm="costpr" vl="51.04"/>
@@ -1228,8 +1228,8 @@
     <it nm="intusr" vl="71"/>
     <it nm="ginnov" vl="38.90"/>
     <it nm="gtacoi" vl="47.51"/>
-    <it nm="inflat" vl="-2.00"/>
-    <it nm="unempl" vl="16.80"/>
+    <it nm="inflat" vl="10.20"/>
+    <it nm="unempl" vl="12.20"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="25.42"/>
     <it nm="costpr" vl="38.07"/>
@@ -1270,8 +1270,8 @@
     <it nm="intusr" vl="76.75"/>
     <it nm="ginnov" vl="44.51"/>
     <it nm="gtacoi" vl="46.62"/>
-    <it nm="inflat" vl="3.40"/>
-    <it nm="unempl" vl="4.40"/>
+    <it nm="inflat" vl="9.50"/>
+    <it nm="unempl" vl="3.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="21.99"/>
     <it nm="costpr" vl="28.42"/>
@@ -1304,8 +1304,8 @@
     <it nm="intusr" vl="98.26"/>
     <it nm="ginnov" vl="51.53"/>
     <it nm="gtacoi" vl="70.9"/>
-    <it nm="inflat" vl="3.60"/>
-    <it nm="unempl" vl="6.00"/>
+    <it nm="inflat" vl="7.20"/>
+    <it nm="unempl" vl="4.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~36.93"/>
     <it nm="costpr" vl="71.16"/>
@@ -1338,8 +1338,8 @@
     <it nm="intusr" vl="54.29"/>
     <it nm="ginnov" vl="36.58"/>
     <it nm="gtacoi" vl="40.42"/>
-    <it nm="inflat" vl="7.34"/>
-    <it nm="unempl" vl="6.70"/>
+    <it nm="inflat" vl="7.79"/>
+    <it nm="unempl" vl="7.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="3.85"/>
     <it nm="costpr" vl="15.90"/>
@@ -1372,8 +1372,8 @@
     <it nm="intusr" vl="64.80"/>
     <it nm="ginnov" vl="29.72"/>
     <it nm="gtacoi" vl="41.81"/>
-    <it nm="inflat" vl="1.42"/>
-    <it nm="unempl" vl="4.99"/>
+    <it nm="inflat" vl="3.47"/>
+    <it nm="unempl" vl="5.83"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="9.20"/>
     <it nm="costpr" vl="24.47"/>
@@ -1406,8 +1406,8 @@
     <it nm="intusr" vl="60.42"/>
     <it nm="ginnov" vl="34.43"/>
     <it nm="gtacoi" vl="32.68"/>
-    <it nm="inflat" vl="34.40"/>
-    <it nm="unempl" vl="9.80"/>
+    <it nm="inflat" vl="35.60"/>
+    <it nm="unempl" vl="8.90"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="2.28"/>
     <it nm="costpr" vl="30.13"/>
@@ -1440,8 +1440,8 @@
     <it nm="intusr" vl="49.36"/>
     <it nm="ginnov" vl="-" ex="jord"/>
     <it nm="gtacoi" vl="-" ex="jord"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="7.90"/>
+    <it nm="inflat" vl="5.10"/>
+    <it nm="unempl" vl="13.47"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="8.47"/>
     <it nm="costpr" vl="21.75"/>
@@ -1474,8 +1474,8 @@
     <it nm="intusr" vl="84.52"/>
     <it nm="ginnov" vl="56.10"/>
     <it nm="gtacoi" vl="70.45"/>
-    <it nm="inflat" vl="-1.20"/>
-    <it nm="unempl" vl="5.40"/>
+    <it nm="inflat" vl="7.00"/>
+    <it nm="unempl" vl="4.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="33.50"/>
     <it nm="costpr" vl="65.10"/>
@@ -1508,8 +1508,8 @@
     <it nm="intusr" vl="81.58"/>
     <it nm="ginnov" vl="57.43"/>
     <it nm="gtacoi" vl="65.66"/>
-    <it nm="inflat" vl="-0.70"/>
-    <it nm="unempl" vl="4.70"/>
+    <it nm="inflat" vl="4.00"/>
+    <it nm="unempl" vl="3.80"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="25.94"/>
     <it nm="costpr" vl="60.48"/>
@@ -1542,8 +1542,8 @@
     <it nm="intusr" vl="61.30"/>
     <it nm="ginnov" vl="46.30"/>
     <it nm="gtacoi" vl="52.91"/>
-    <it nm="inflat" vl="-0.30"/>
-    <it nm="unempl" vl="9.60"/>
+    <it nm="inflat" vl="6.00"/>
+    <it nm="unempl" vl="8.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~33.83"/>
     <it nm="costpr" vl="49.13"/>
@@ -1577,8 +1577,8 @@
     <it nm="intusr" vl="90.87"/>
     <it nm="ginnov" vl="54.68"/>
     <it nm="gtacoi" vl="66.06"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="3.00"/>
+    <it nm="inflat" vl="1.20"/>
+    <it nm="unempl" vl="2.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="22.18"/>
     <it nm="costpr" vl="59.23"/>
@@ -1611,8 +1611,8 @@
     <it nm="intusr" vl="66.79"/>
     <it nm="ginnov" vl="29.61"/>
     <it nm="gtacoi" vl="43.48"/>
-    <it nm="inflat" vl="-1.00"/>
-    <it nm="unempl" vl="23.00"/>
+    <it nm="inflat" vl="3.60"/>
+    <it nm="unempl" vl="23.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="13.91"/>
     <it nm="costpr" vl="31.87"/>
@@ -1645,8 +1645,8 @@
     <it nm="intusr" vl="76.43"/>
     <it nm="ginnov" vl="31.03"/>
     <it nm="gtacoi" vl="46.02"/>
-    <it nm="inflat" vl="7.00"/>
-    <it nm="unempl" vl="5.00"/>
+    <it nm="inflat" vl="13.20"/>
+    <it nm="unempl" vl="4.90"/>
     <it nm="conscr" vl="10"/>
     <it nm="mwcosr" vl="4.23"/>
     <it nm="costpr" vl="19.99"/>
@@ -1682,8 +1682,8 @@
     <it nm="intusr" vl="98.00"/>
     <it nm="ginnov" vl="34.55"/>
     <it nm="gtacoi" vl="42.65"/>
-    <it nm="inflat" vl="2.18"/>
-    <it nm="unempl" vl="2.17"/>
+    <it nm="inflat" vl="4.36"/>
+    <it nm="unempl" vl="2.30"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="4.99"/>
     <it nm="costpr" vl="40.82"/>
@@ -1716,8 +1716,8 @@
     <it nm="intusr" vl="38.20"/>
     <it nm="ginnov" vl="28.38"/>
     <it nm="gtacoi" vl="35.72"/>
-    <it nm="inflat" vl="5.40"/>
-    <it nm="unempl" vl="3.10"/>
+    <it nm="inflat" vl="14.50"/>
+    <it nm="unempl" vl="2.90"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="1.03"/>
     <it nm="costpr" vl="15.55"/>
@@ -1751,8 +1751,8 @@
     <it nm="intusr" vl="81.32"/>
     <it nm="ginnov" vl="43.23"/>
     <it nm="gtacoi" vl="54.4"/>
-    <it nm="inflat" vl="-0.30"/>
-    <it nm="unempl" vl="8.60"/>
+    <it nm="inflat" vl="13.00"/>
+    <it nm="unempl" vl="6.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="16.21"/>
     <it nm="costpr" vl="33.90"/>
@@ -1785,8 +1785,8 @@
     <it nm="intusr" vl="78.18"/>
     <it nm="ginnov" vl="28.54"/>
     <it nm="gtacoi" vl="-" ex="turk"/>
-    <it nm="inflat" vl="120.03"/>
-    <it nm="unempl" vl="6.20"/>
+    <it nm="inflat" vl="208.13"/>
+    <it nm="unempl" vl="6.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="10.15"/>
     <it nm="costpr" vl="51.13"/>
@@ -1821,8 +1821,8 @@
     <it nm="intusr" vl="21.76"/>
     <it nm="ginnov" vl="-" ex="niger"/>
     <it nm="gtacoi" vl="-" ex="ymn"/>
-    <it nm="inflat" vl="1.30"/>
-    <it nm="unempl" vl="17.30"/>
+    <it nm="inflat" vl="5.70"/>
+    <it nm="unempl" vl="18.63"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="7.90"/>
     <it nm="costpr" vl="14.37"/>
@@ -1856,8 +1856,8 @@
     <it nm="intusr" vl="77.62"/>
     <it nm="ginnov" vl="41.46"/>
     <it nm="gtacoi" vl="53.32"/>
-    <it nm="inflat" vl="0.70"/>
-    <it nm="unempl" vl="14.10"/>
+    <it nm="inflat" vl="16.80"/>
+    <it nm="unempl" vl="9.50"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="23.55"/>
     <it nm="costpr" vl="31.88"/>
@@ -1890,8 +1890,8 @@
     <it nm="intusr" vl="97.83"/>
     <it nm="ginnov" vl="53.47"/>
     <it nm="gtacoi" vl="73.94"/>
-    <it nm="inflat" vl="0.70"/>
-    <it nm="unempl" vl="6.30"/>
+    <it nm="inflat" vl="16.80"/>
+    <it nm="unempl" vl="9.50"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="35.00"/>
     <it nm="costpr" vl="75.54"/>
@@ -1926,8 +1926,8 @@
     <it nm="intusr" vl="45"/>
     <it nm="ginnov" vl="42.68"/>
     <it nm="gtacoi" vl="60.04"/>
-    <it nm="inflat" vl="-1.40"/>
-    <it nm="unempl" vl="4.70"/>
+    <it nm="inflat" vl="2.20"/>
+    <it nm="unempl" vl="4.10"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="8.81"/>
     <it nm="costpr" vl="25.78"/>
@@ -1962,8 +1962,8 @@
     <it nm="intusr" vl="80.07"/>
     <it nm="ginnov" vl="49.01"/>
     <it nm="gtacoi" vl="62.02"/>
-    <it nm="inflat" vl="0.50"/>
-    <it nm="unempl" vl="4.40"/>
+    <it nm="inflat" vl="5.40"/>
+    <it nm="unempl" vl="3.20"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="18.31"/>
     <it nm="costpr" vl="54.19"/>
@@ -1999,8 +1999,8 @@
     <it nm="intusr" vl="63.85"/>
     <it nm="ginnov" vl="36.06"/>
     <it nm="gtacoi" vl="41.03"/>
-    <it nm="inflat" vl="4.01"/>
-    <it nm="unempl" vl="5.10"/>
+    <it nm="inflat" vl="7.68"/>
+    <it nm="unempl" vl="3.00"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="9.47"/>
     <it nm="costpr" vl="23.86"/>
@@ -2036,7 +2036,7 @@
     <it nm="intusr" vl="23.71"/>
     <it nm="ginnov" vl="36.29"/>
     <it nm="gtacoi" vl="39.62"/>
-    <it nm="inflat" vl="1.70"/>
+    <it nm="inflat" vl="14.40"/>
     <it nm="unempl" vl="8.10"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="7.55"/>
@@ -2071,8 +2071,8 @@
     <it nm="intusr" vl="61.76"/>
     <it nm="ginnov" vl="31.63"/>
     <it nm="gtacoi" vl="32.93"/>
-    <it nm="inflat" vl="1.40"/>
-    <it nm="unempl" vl="12.30"/>
+    <it nm="inflat" vl="5.30"/>
+    <it nm="unempl" vl="12.10"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="14.21"/>
     <it nm="costpr" vl="23.89"/>
@@ -2106,8 +2106,8 @@
     <it nm="intusr" vl="30.68"/>
     <it nm="ginnov" vl="-" ex="srilanka"/>
     <it nm="gtacoi" vl="-" ex="srilanka"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="1.60"/>
+    <it nm="inflat" vl="12.63"/>
+    <it nm="unempl" vl="1.79"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="1.92"/>
     <it nm="costpr" vl="30.25"/>
@@ -2143,8 +2143,8 @@
     <it nm="intusr" vl="93.20"/>
     <it nm="ginnov" vl="61.44"/>
     <it nm="gtacoi" vl="74.99"/>
-    <it nm="inflat" vl="1.10"/>
-    <it nm="unempl" vl="4.40"/>
+    <it nm="inflat" vl="9.60"/>
+    <it nm="unempl" vl="3.20"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="34.39"/>
     <it nm="costpr" vl="59.85"/>
@@ -2177,8 +2177,8 @@
     <it nm="intusr" vl="90.81"/>
     <it nm="ginnov" vl="49.55"/>
     <it nm="gtacoi" vl="69.84"/>
-    <it nm="inflat" vl="1.40"/>
-    <it nm="unempl" vl="4.00"/>
+    <it nm="inflat" vl="6.90"/>
+    <it nm="unempl" vl="3.20"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="44.54"/>
     <it nm="costpr" vl="58.23"/>
@@ -2212,8 +2212,8 @@
     <it nm="intusr" vl="10.22"/>
     <it nm="ginnov" vl="18.13"/>
     <it nm="gtacoi" vl="-" ex="nigeria"/>
-    <it nm="inflat" vl="5.70"/>
-    <it nm="unempl" vl="0.30"/>
+    <it nm="inflat" vl="4.89"/>
+    <it nm="unempl" vl="0.70"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="1.82"/>
     <it nm="costpr" vl="-" ex="nigeria"/>
@@ -2246,8 +2246,8 @@
     <it nm="intusr" vl="66.44"/>
     <it nm="ginnov" vl="23.93"/>
     <it nm="gtacoi" vl="29.26"/>
-    <it nm="inflat" vl="13.71"/>
-    <it nm="unempl" vl="27.10"/>
+    <it nm="inflat" vl="16.82"/>
+    <it nm="unempl" vl="33.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="3.47"/>
     <it nm="costpr" vl="29.34"/>
@@ -2282,8 +2282,8 @@
     <it nm="intusr" vl="96.51"/>
     <it nm="ginnov" vl="51.87"/>
     <it nm="gtacoi" vl="72.91"/>
-    <it nm="inflat" vl="1.60"/>
-    <it nm="unempl" vl="5.30"/>
+    <it nm="inflat" vl="5.40"/>
+    <it nm="unempl" vl="3.30"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~38.62"/>
     <it nm="costpr" vl="72.68"/>
@@ -2316,8 +2316,8 @@
     <it nm="intusr" vl="80.19"/>
     <it nm="ginnov" vl="30.98"/>
     <it nm="gtacoi" vl="49.63"/>
-    <it nm="inflat" vl="-1.22"/>
-    <it nm="unempl" vl="3.10"/>
+    <it nm="inflat" vl="2.67"/>
+    <it nm="unempl" vl="5.00"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="25.62"/>
     <it nm="costpr" vl="34.48"/>
@@ -2350,8 +2350,8 @@
     <it nm="intusr" vl="38.66"/>
     <it nm="ginnov" vl="25.36"/>
     <it nm="gtacoi" vl="30.63"/>
-    <it nm="inflat" vl="9.04"/>
-    <it nm="unempl" vl="4.10"/>
+    <it nm="inflat" vl="13.40"/>
+    <it nm="unempl" vl="4.40"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="11.20"/>
     <it nm="costpr" vl="13.36"/>
@@ -2390,8 +2390,8 @@
     <it nm="intusr" vl="60.05"/>
     <it nm="ginnov" vl="36.18"/>
     <it nm="gtacoi" vl="47.52"/>
-    <it nm="inflat" vl="2.30"/>
-    <it nm="unempl" vl="10.00"/>
+    <it nm="inflat" vl="4.90"/>
+    <it nm="unempl" vl="5.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="9.21"/>
     <it nm="costpr" vl="26.20"/>
@@ -2424,8 +2424,8 @@
     <it nm="intusr" vl="75.99"/>
     <it nm="ginnov" vl="41.31"/>
     <it nm="gtacoi" vl="49.48"/>
-    <it nm="inflat" vl="3.00"/>
-    <it nm="unempl" vl="6.10"/>
+    <it nm="inflat" vl="12.40"/>
+    <it nm="unempl" vl="5.40"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="24.70"/>
     <it nm="costpr" vl="30.60"/>
@@ -2458,8 +2458,8 @@
     <it nm="intusr" vl="73.79"/>
     <it nm="ginnov" vl="44.65"/>
     <it nm="gtacoi" vl="57.8"/>
-    <it nm="inflat" vl="-0.10"/>
-    <it nm="unempl" vl="5.60"/>
+    <it nm="inflat" vl="7.20"/>
+    <it nm="unempl" vl="5.90"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="23.31"/>
     <it nm="costpr" vl="38.27"/>
@@ -2492,7 +2492,7 @@
     <it nm="intusr" vl="95.94"/>
     <it nm="ginnov" vl="33.86"/>
     <it nm="gtacoi" vl="57.74"/>
-    <it nm="inflat" vl="-2.97"/>
+    <it nm="inflat" vl="4.66"/>
     <it nm="unempl" vl="0.10"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="4.80"/>
@@ -2526,8 +2526,8 @@
     <it nm="intusr" vl="63.75"/>
     <it nm="ginnov" vl="36.76"/>
     <it nm="gtacoi" vl="42.14"/>
-    <it nm="inflat" vl="2.50"/>
-    <it nm="unempl" vl="5.20"/>
+    <it nm="inflat" vl="13.67"/>
+    <it nm="unempl" vl="5.70"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="22.01"/>
     <it nm="costpr" vl="25.25"/>
@@ -2560,8 +2560,8 @@
     <it nm="intusr" vl="76.01"/>
     <it nm="ginnov" vl="37.62"/>
     <it nm="gtacoi" vl="47.07"/>
-    <it nm="inflat" vl="3.70"/>
-    <it nm="unempl" vl="6.30"/>
+    <it nm="inflat" vl="17.80"/>
+    <it nm="unempl" vl="4.10"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="9.52"/>
     <it nm="costpr" vl="21.99"/>
@@ -2601,8 +2601,8 @@
     <it nm="intusr" vl="82.12"/>
     <it nm="ginnov" vl="32.93"/>
     <it nm="gtacoi" vl="51.48"/>
-    <it nm="inflat" vl="5.70"/>
-    <it nm="unempl" vl="9.00"/>
+    <it nm="inflat" vl="2.30"/>
+    <it nm="unempl" vl="6.90"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="25.92"/>
     <it nm="costpr" vl="31.64"/>
@@ -2636,8 +2636,8 @@
     <it nm="intusr" vl="70.33"/>
     <it nm="ginnov" vl="35.71"/>
     <it nm="gtacoi" vl="43.8"/>
-    <it nm="inflat" vl="1.80"/>
-    <it nm="unempl" vl="7.30"/>
+    <it nm="inflat" vl="9.60"/>
+    <it nm="unempl" vl="9.80"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="11.89"/>
     <it nm="costpr" vl="25.17"/>
@@ -2672,8 +2672,8 @@
     <it nm="intusr" vl="84.45"/>
     <it nm="ginnov" vl="58.37"/>
     <it nm="gtacoi" vl="78.48"/>
-    <it nm="inflat" vl="0.00"/>
-    <it nm="unempl" vl="3.60"/>
+    <it nm="inflat" vl="5.40"/>
+    <it nm="unempl" vl="2.20"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~11.22"/>
     <it nm="costpr" vl="75.64"/>
@@ -2706,8 +2706,8 @@
     <it nm="intusr" vl="81.63"/>
     <it nm="ginnov" vl="42.05"/>
     <it nm="gtacoi" vl="52.08"/>
-    <it nm="inflat" vl="1.40"/>
-    <it nm="unempl" vl="7.40"/>
+    <it nm="inflat" vl="11.80"/>
+    <it nm="unempl" vl="6.50"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="22.97"/>
     <it nm="costpr" vl="33.96"/>
@@ -2740,8 +2740,8 @@
     <it nm="intusr" vl="78.89"/>
     <it nm="ginnov" vl="45.25"/>
     <it nm="gtacoi" vl="57.42"/>
-    <it nm="inflat" vl="-0.10"/>
-    <it nm="unempl" vl="9.10"/>
+    <it nm="inflat" vl="6.90"/>
+    <it nm="unempl" vl="6.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="28.50"/>
     <it nm="costpr" vl="40.03"/>
@@ -2775,7 +2775,7 @@
     <it nm="intusr" vl="2.00"/>
     <it nm="ginnov" vl="-" ex="ymn"/>
     <it nm="gtacoi" vl="-" ex="ymn"/>
-    <it nm="inflat" vl="3.90"/>
+    <it nm="inflat" vl="6.50"/>
     <it nm="unempl" vl="-" ex="ymn"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~5.12"/>
@@ -2809,8 +2809,8 @@
     <it nm="intusr" vl="56.17"/>
     <it nm="ginnov" vl="34.04"/>
     <it nm="gtacoi" vl="40.85"/>
-    <it nm="inflat" vl="3.00"/>
-    <it nm="unempl" vl="23.30"/>
+    <it nm="inflat" vl="5.90"/>
+    <it nm="unempl" vl="35.30"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="11.13"/>
     <it nm="costpr" vl="29.38"/>
@@ -2843,8 +2843,8 @@
     <it nm="intusr" vl="95.10"/>
     <it nm="ginnov" vl="56.55"/>
     <it nm="gtacoi" vl="59.59"/>
-    <it nm="inflat" vl="1.00"/>
-    <it nm="unempl" vl="3.90"/>
+    <it nm="inflat" vl="4.80"/>
+    <it nm="unempl" vl="2.70"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="30.12"/>
     <it nm="costpr" vl="53.35"/>
@@ -2878,8 +2878,8 @@
     <it nm="intusr" vl="84.60"/>
     <it nm="ginnov" vl="47.85"/>
     <it nm="gtacoi" vl="55.7"/>
-    <it nm="inflat" vl="-0.90"/>
-    <it nm="unempl" vl="16.26"/>
+    <it nm="inflat" vl="8.30"/>
+    <it nm="unempl" vl="13.65"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="33.70"/>
     <it nm="costpr" vl="42.13"/>
@@ -2912,8 +2912,8 @@
     <it nm="intusr" vl="34.11"/>
     <it nm="ginnov" vl="28.45"/>
     <it nm="gtacoi" vl="36.95"/>
-    <it nm="inflat" vl="4.00"/>
-    <it nm="unempl" vl="5.40"/>
+    <it nm="inflat" vl="29.80"/>
+    <it nm="unempl" vl="4.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="3.17"/>
     <it nm="costpr" vl="20.42"/>
@@ -2948,8 +2948,8 @@
     <it nm="intusr" vl="96.41"/>
     <it nm="ginnov" vl="63.65"/>
     <it nm="gtacoi" vl="75.82"/>
-    <it nm="inflat" vl="0.40"/>
-    <it nm="unempl" vl="8.30"/>
+    <it nm="inflat" vl="6.40"/>
+    <it nm="unempl" vl="8.20"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~26.26"/>
     <it nm="costpr" vl="54.76"/>
@@ -2982,8 +2982,8 @@
     <it nm="intusr" vl="93.71"/>
     <it nm="ginnov" vl="67.24"/>
     <it nm="gtacoi" vl="81.26"/>
-    <it nm="inflat" vl="-0.80"/>
-    <it nm="unempl" vl="3.20"/>
+    <it nm="inflat" vl="2.50"/>
+    <it nm="unempl" vl="2.30"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="25.11"/>
     <it nm="costpr" vl="95.10"/>
@@ -3016,8 +3016,8 @@
     <it nm="intusr" vl="34.25"/>
     <it nm="ginnov" vl="-" ex="pak"/>
     <it nm="gtacoi" vl="-" ex="ymn"/>
-    <it nm="inflat" vl="13.10"/>
-    <it nm="unempl" vl="8.40"/>
+    <it nm="inflat" vl="139.46"/>
+    <it nm="unempl" vl="9.00"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="4.20"/>
     <it nm="costpr" vl="17.87"/>
@@ -3050,8 +3050,8 @@
     <it nm="intusr" vl="92.78"/>
     <it nm="ginnov" vl="~55.54"/><!--Hong Kong's-->
     <it nm="gtacoi" vl="-" ex="skorea"/>
-    <it nm="inflat" vl="-0.58"/>
-    <it nm="unempl" vl="3.78"/>
+    <it nm="inflat" vl="3.38"/>
+    <it nm="unempl" vl="3.70"/>
     <it nm="conscr" vl="10"/>
     <it nm="mwcosr" vl="22.88"/>
     <it nm="costpr" vl="42.64"/>
@@ -3084,8 +3084,8 @@
     <it nm="intusr" vl="21.96"/>
     <it nm="ginnov" vl="26.43"/>
     <it nm="gtacoi" vl="36.89"/>
-    <it nm="inflat" vl="6.60"/>
-    <it nm="unempl" vl="2.10"/>
+    <it nm="inflat" vl="7.30"/>
+    <it nm="unempl" vl="7.50"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~1.82"/>
     <it nm="costpr" vl="-" ex="kyrgyz"/>
@@ -3119,8 +3119,8 @@
     <it nm="intusr" vl="52.89"/>
     <it nm="ginnov" vl="38.63"/>
     <it nm="gtacoi" vl="41.3"/>
-    <it nm="inflat" vl="-0.70"/>
-    <it nm="unempl" vl="1.90"/>
+    <it nm="inflat" vl="4.65"/>
+    <it nm="unempl" vl="1.64"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="7.71"/>
     <it nm="costpr" vl="33.56"/>
@@ -3158,8 +3158,8 @@
     <it nm="intusr" vl="64.68"/>
     <it nm="ginnov" vl="36.95"/>
     <it nm="gtacoi" vl="38.37"/>
-    <it nm="inflat" vl="11.75"/>
-    <it nm="unempl" vl="13.40"/>
+    <it nm="inflat" vl="69.97"/>
+    <it nm="unempl" vl="11.50"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="18.99"/>
     <it nm="costpr" vl="19.35"/>
@@ -3192,8 +3192,8 @@
     <it nm="intusr" vl="21.25"/>
     <it nm="ginnov" vl="-" ex="kazakh"/>
     <it nm="gtacoi" vl="-" ex="kyrgyz"/>
-    <it nm="inflat" vl="13.40"/>
-    <it nm="unempl" vl="3.90"/>
+    <it nm="inflat" vl="12.45"/>
+    <it nm="unempl" vl="4.38"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~8.79"/>
     <it nm="costpr" vl="-" ex="uzbek"/>
@@ -3228,8 +3228,8 @@
     <it nm="intusr" vl="57.12"/>
     <it nm="ginnov" vl="37.40"/>
     <it nm="gtacoi" vl="41.47"/>
-    <it nm="inflat" vl="2.30"/>
-    <it nm="unempl" vl="9.90"/>
+    <it nm="inflat" vl="16.40"/>
+    <it nm="unempl" vl="10.60"/>
     <it nm="conscr" vl="10"/>
     <it nm="mwcosr" vl="~8.93"/>
     <it nm="costpr" vl="19.43"/>
@@ -3262,8 +3262,8 @@
     <it nm="intusr" vl="94.82"/>
     <it nm="ginnov" vl="42.17"/>
     <it nm="gtacoi" vl="62.63"/>
-    <it nm="inflat" vl="-2.59"/>
-    <it nm="unempl" vl="2.64"/>
+    <it nm="inflat" vl="2.50"/>
+    <it nm="unempl" vl="5.00"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="~22.97"/>
     <it nm="costpr" vl="51.61"/>
@@ -3296,8 +3296,8 @@
     <it nm="intusr" vl="94.62"/>
     <it nm="ginnov" vl="61.30"/>
     <it nm="gtacoi" vl="72.27"/>
-    <it nm="inflat" vl="0.50"/>
-    <it nm="unempl" vl="4.50"/>
+    <it nm="inflat" vl="9.00"/>
+    <it nm="unempl" vl="3.70"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="40.94"/>
     <it nm="costpr" vl="52.19"/>
@@ -3330,8 +3330,8 @@
     <it nm="intusr" vl="75.23"/>
     <it nm="ginnov" vl="61.73"/>
     <it nm="gtacoi" vl="79.09"/>
-    <it nm="inflat" vl="1.40"/>
-    <it nm="unempl" vl="7.90"/>
+    <it nm="inflat" vl="8.30"/>
+    <it nm="unempl" vl="3.60"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="22.24"/>
     <it nm="costpr" vl="57.21"/>
@@ -3364,8 +3364,8 @@
     <it nm="intusr" vl="68.28"/>
     <it nm="ginnov" vl="34.32"/>
     <it nm="gtacoi" vl="46.76"/>
-    <it nm="inflat" vl="9.92"/>
-    <it nm="unempl" vl="10.80"/>
+    <it nm="inflat" vl="9.37"/>
+    <it nm="unempl" vl="7.70"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="18.82"/>
     <it nm="costpr" vl="33.16"/>
@@ -3398,8 +3398,8 @@
     <it nm="intusr" vl="52.31"/>
     <it nm="ginnov" vl="-" ex="kazakh"/>
     <it nm="gtacoi" vl="-" ex="kyrgyz"/>
-    <it nm="inflat" vl="11.70"/>
-    <it nm="unempl" vl="5.50"/>
+    <it nm="inflat" vl="10.38"/>
+    <it nm="unempl" vl="9.40"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="14.04"/>
     <it nm="costpr" vl="18.01"/>
@@ -3433,7 +3433,7 @@
     <it nm="intusr" vl="64.31"/>
     <it nm="ginnov" vl="-" ex="colom"/>
     <it nm="gtacoi" vl="27.89"/>
-    <it nm="inflat" vl="1813.10"/>
+    <it nm="inflat" vl="222.30"/>
     <it nm="unempl" vl="6.40"/>
     <it nm="conscr" vl="20"/>
     <it nm="mwcosr" vl="~0.04"/>
@@ -3467,8 +3467,8 @@
     <it nm="intusr" vl="70.04"/>
     <it nm="ginnov" vl="38.84"/>
     <it nm="gtacoi" vl="35.11"/>
-    <it nm="inflat" vl="2.47"/>
-    <it nm="unempl" vl="2.73"/>
+    <it nm="inflat" vl="2.64"/>
+    <it nm="unempl" vl="2.46"/>
     <it nm="conscr" vl="100"/>
     <it nm="mwcosr" vl="4.86"/>
     <it nm="costpr" vl="26.63"/>
@@ -3502,7 +3502,7 @@
     <it nm="ginnov" vl="14.49"/>
     <it nm="gtacoi" vl="12.36"/>
     <it nm="inflat" vl="0.77"/>
-    <it nm="unempl" vl="12.80"/>
+    <it nm="unempl" vl="13.42"/>
     <it nm="conscr" vl="0"/>
     <it nm="mwcosr" vl="~3.56"/>
     <it nm="costpr" vl="29.84"/>
@@ -3510,5 +3510,6 @@
   <!--zamb-->
   <!--zimbab-->
 
-  <!-- TO BE UPDATED: crimer, inflat, unempl-->
+  <!-- TO BE UPDATED: crimer-->
+  <!-- inflat and unempl updated at 2022.05.20 -->
 </cs>
