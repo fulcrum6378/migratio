@@ -1,0 +1,5 @@
+*
+!config/*
+!wp-content/themes/twentytwenty/*
+!xml/*
+!.gitignore
